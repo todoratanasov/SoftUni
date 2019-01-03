@@ -1,0 +1,11 @@
+C:\Programming\Softuni\Tech module\Lists\Lab\Lists lab\2. Append Lists\bin\Debug\netcoreapp2.0\2. Append Lists.deps.json
+C:\Programming\Softuni\Tech module\Lists\Lab\Lists lab\2. Append Lists\bin\Debug\netcoreapp2.0\2. Append Lists.runtimeconfig.json
+C:\Programming\Softuni\Tech module\Lists\Lab\Lists lab\2. Append Lists\bin\Debug\netcoreapp2.0\2. Append Lists.runtimeconfig.dev.json
+C:\Programming\Softuni\Tech module\Lists\Lab\Lists lab\2. Append Lists\bin\Debug\netcoreapp2.0\2. Append Lists.dll
+C:\Programming\Softuni\Tech module\Lists\Lab\Lists lab\2. Append Lists\bin\Debug\netcoreapp2.0\2. Append Lists.pdb
+C:\Programming\Softuni\Tech module\Lists\Lab\Lists lab\2. Append Lists\obj\Debug\netcoreapp2.0\2. Append Lists.csprojAssemblyReference.cache
+C:\Programming\Softuni\Tech module\Lists\Lab\Lists lab\2. Append Lists\obj\Debug\netcoreapp2.0\2. Append Lists.csproj.CoreCompileInputs.cache
+C:\Programming\Softuni\Tech module\Lists\Lab\Lists lab\2. Append Lists\obj\Debug\netcoreapp2.0\2. Append Lists.AssemblyInfoInputs.cache
+C:\Programming\Softuni\Tech module\Lists\Lab\Lists lab\2. Append Lists\obj\Debug\netcoreapp2.0\2. Append Lists.AssemblyInfo.cs
+C:\Programming\Softuni\Tech module\Lists\Lab\Lists lab\2. Append Lists\obj\Debug\netcoreapp2.0\2. Append Lists.dll
+C:\Programming\Softuni\Tech module\Lists\Lab\Lists lab\2. Append Lists\obj\Debug\netcoreapp2.0\2. Append Lists.pdb

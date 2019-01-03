@@ -1,0 +1,17 @@
+C:\Programming\Softuni\Tech module\Objects and Classes\Lab\Description of OBJECTS AND CLASSES\Description of OBJECTS AND CLASSES\bin\Debug\netcoreapp2.0\Description of OBJECTS AND CLASSES.deps.json
+C:\Programming\Softuni\Tech module\Objects and Classes\Lab\Description of OBJECTS AND CLASSES\Description of OBJECTS AND CLASSES\bin\Debug\netcoreapp2.0\Description of OBJECTS AND CLASSES.runtimeconfig.json
+C:\Programming\Softuni\Tech module\Objects and Classes\Lab\Description of OBJECTS AND CLASSES\Description of OBJECTS AND CLASSES\bin\Debug\netcoreapp2.0\Description of OBJECTS AND CLASSES.runtimeconfig.dev.json
+C:\Programming\Softuni\Tech module\Objects and Classes\Lab\Description of OBJECTS AND CLASSES\Description of OBJECTS AND CLASSES\bin\Debug\netcoreapp2.0\Description of OBJECTS AND CLASSES.dll
+C:\Programming\Softuni\Tech module\Objects and Classes\Lab\Description of OBJECTS AND CLASSES\Description of OBJECTS AND CLASSES\bin\Debug\netcoreapp2.0\Description of OBJECTS AND CLASSES.pdb
+C:\Programming\Softuni\Tech module\Objects and Classes\Lab\Description of OBJECTS AND CLASSES\Description of OBJECTS AND CLASSES\obj\Debug\netcoreapp2.0\Description of OBJECTS AND CLASSES.csprojAssemblyReference.cache
+C:\Programming\Softuni\Tech module\Objects and Classes\Lab\Description of OBJECTS AND CLASSES\Description of OBJECTS AND CLASSES\obj\Debug\netcoreapp2.0\Description of OBJECTS AND CLASSES.csproj.CoreCompileInputs.cache
+C:\Programming\Softuni\Tech module\Objects and Classes\Lab\Description of OBJECTS AND CLASSES\Description of OBJECTS AND CLASSES\obj\Debug\netcoreapp2.0\Description of OBJECTS AND CLASSES.AssemblyInfoInputs.cache
+C:\Programming\Softuni\Tech module\Objects and Classes\Lab\Description of OBJECTS AND CLASSES\Description of OBJECTS AND CLASSES\obj\Debug\netcoreapp2.0\Description of OBJECTS AND CLASSES.AssemblyInfo.cs
+C:\Programming\Softuni\Tech module\Objects and Classes\Lab\Description of OBJECTS AND CLASSES\Description of OBJECTS AND CLASSES\obj\Debug\netcoreapp2.0\Description of OBJECTS AND CLASSES.dll
+C:\Programming\Softuni\Tech module\Objects and Classes\Lab\Description of OBJECTS AND CLASSES\Description of OBJECTS AND CLASSES\obj\Debug\netcoreapp2.0\Description of OBJECTS AND CLASSES.pdb
+C:\Programming\Softuni\all_problems_solved\SoftUni\02. Programming Fundamentals\C#\07. OBJ AND CLASS\Lab\Description of OBJECTS AND CLASSES\obj\Debug\netcoreapp2.0\Description of OBJECTS AND CLASSES.csprojAssemblyReference.cache
+C:\Programming\Softuni\all_problems_solved\SoftUni\02. Programming Fundamentals\C#\07. OBJ AND CLASS\Lab\Description of OBJECTS AND CLASSES\obj\Debug\netcoreapp2.0\Description of OBJECTS AND CLASSES.csproj.CoreCompileInputs.cache
+C:\Programming\Softuni\all_problems_solved\SoftUni\02. Programming Fundamentals\C#\07. OBJ AND CLASS\Lab\Description of OBJECTS AND CLASSES\obj\Debug\netcoreapp2.0\Description of OBJECTS AND CLASSES.AssemblyInfoInputs.cache
+C:\Programming\Softuni\all_problems_solved\SoftUni\02. Programming Fundamentals\C#\07. OBJ AND CLASS\Lab\Description of OBJECTS AND CLASSES\obj\Debug\netcoreapp2.0\Description of OBJECTS AND CLASSES.AssemblyInfo.cs
+C:\Programming\Softuni\all_problems_solved\SoftUni\02. Programming Fundamentals\C#\07. OBJ AND CLASS\Lab\Description of OBJECTS AND CLASSES\obj\Debug\netcoreapp2.0\Description of OBJECTS AND CLASSES.dll
+C:\Programming\Softuni\all_problems_solved\SoftUni\02. Programming Fundamentals\C#\07. OBJ AND CLASS\Lab\Description of OBJECTS AND CLASSES\obj\Debug\netcoreapp2.0\Description of OBJECTS AND CLASSES.pdb

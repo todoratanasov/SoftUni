@@ -1,0 +1,10 @@
+D:\Programming\Softuni\Tech module\18_05_2018 ex\Exercises\Problem 8. Calories Counter\bin\Debug\netcoreapp2.0\Problem 8. Calories Counter.deps.json
+D:\Programming\Softuni\Tech module\18_05_2018 ex\Exercises\Problem 8. Calories Counter\bin\Debug\netcoreapp2.0\Problem 8. Calories Counter.runtimeconfig.json
+D:\Programming\Softuni\Tech module\18_05_2018 ex\Exercises\Problem 8. Calories Counter\bin\Debug\netcoreapp2.0\Problem 8. Calories Counter.runtimeconfig.dev.json
+D:\Programming\Softuni\Tech module\18_05_2018 ex\Exercises\Problem 8. Calories Counter\bin\Debug\netcoreapp2.0\Problem 8. Calories Counter.dll
+D:\Programming\Softuni\Tech module\18_05_2018 ex\Exercises\Problem 8. Calories Counter\bin\Debug\netcoreapp2.0\Problem 8. Calories Counter.pdb
+D:\Programming\Softuni\Tech module\18_05_2018 ex\Exercises\Problem 8. Calories Counter\obj\Debug\netcoreapp2.0\Problem 8. Calories Counter.csproj.CoreCompileInputs.cache
+D:\Programming\Softuni\Tech module\18_05_2018 ex\Exercises\Problem 8. Calories Counter\obj\Debug\netcoreapp2.0\Problem 8. Calories Counter.AssemblyInfoInputs.cache
+D:\Programming\Softuni\Tech module\18_05_2018 ex\Exercises\Problem 8. Calories Counter\obj\Debug\netcoreapp2.0\Problem 8. Calories Counter.AssemblyInfo.cs
+D:\Programming\Softuni\Tech module\18_05_2018 ex\Exercises\Problem 8. Calories Counter\obj\Debug\netcoreapp2.0\Problem 8. Calories Counter.dll
+D:\Programming\Softuni\Tech module\18_05_2018 ex\Exercises\Problem 8. Calories Counter\obj\Debug\netcoreapp2.0\Problem 8. Calories Counter.pdb

@@ -1,0 +1,11 @@
+C:\Programming\Softuni\Tech module\Arrays\Arrays Lab\Lab Arrays\3. Last K Numbers Sums Sequence\bin\Debug\netcoreapp2.0\3. Last K Numbers Sums Sequence.deps.json
+C:\Programming\Softuni\Tech module\Arrays\Arrays Lab\Lab Arrays\3. Last K Numbers Sums Sequence\bin\Debug\netcoreapp2.0\3. Last K Numbers Sums Sequence.runtimeconfig.json
+C:\Programming\Softuni\Tech module\Arrays\Arrays Lab\Lab Arrays\3. Last K Numbers Sums Sequence\bin\Debug\netcoreapp2.0\3. Last K Numbers Sums Sequence.runtimeconfig.dev.json
+C:\Programming\Softuni\Tech module\Arrays\Arrays Lab\Lab Arrays\3. Last K Numbers Sums Sequence\bin\Debug\netcoreapp2.0\3. Last K Numbers Sums Sequence.dll
+C:\Programming\Softuni\Tech module\Arrays\Arrays Lab\Lab Arrays\3. Last K Numbers Sums Sequence\bin\Debug\netcoreapp2.0\3. Last K Numbers Sums Sequence.pdb
+C:\Programming\Softuni\Tech module\Arrays\Arrays Lab\Lab Arrays\3. Last K Numbers Sums Sequence\obj\Debug\netcoreapp2.0\3. Last K Numbers Sums Sequence.csproj.CoreCompileInputs.cache
+C:\Programming\Softuni\Tech module\Arrays\Arrays Lab\Lab Arrays\3. Last K Numbers Sums Sequence\obj\Debug\netcoreapp2.0\3. Last K Numbers Sums Sequence.AssemblyInfoInputs.cache
+C:\Programming\Softuni\Tech module\Arrays\Arrays Lab\Lab Arrays\3. Last K Numbers Sums Sequence\obj\Debug\netcoreapp2.0\3. Last K Numbers Sums Sequence.AssemblyInfo.cs
+C:\Programming\Softuni\Tech module\Arrays\Arrays Lab\Lab Arrays\3. Last K Numbers Sums Sequence\obj\Debug\netcoreapp2.0\3. Last K Numbers Sums Sequence.dll
+C:\Programming\Softuni\Tech module\Arrays\Arrays Lab\Lab Arrays\3. Last K Numbers Sums Sequence\obj\Debug\netcoreapp2.0\3. Last K Numbers Sums Sequence.pdb
+C:\Programming\Softuni\Tech module\Arrays\Arrays Lab\Lab Arrays\3. Last K Numbers Sums Sequence\obj\Debug\netcoreapp2.0\3. Last K Numbers Sums Sequence.csprojAssemblyReference.cache

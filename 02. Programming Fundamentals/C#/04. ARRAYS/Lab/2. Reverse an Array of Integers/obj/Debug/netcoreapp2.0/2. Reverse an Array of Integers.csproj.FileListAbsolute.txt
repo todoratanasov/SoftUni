@@ -1,0 +1,11 @@
+C:\Programming\Softuni\Tech module\Arrays\Arrays Lab\Lab Arrays\2. Reverse an Array of Integers\bin\Debug\netcoreapp2.0\2. Reverse an Array of Integers.deps.json
+C:\Programming\Softuni\Tech module\Arrays\Arrays Lab\Lab Arrays\2. Reverse an Array of Integers\bin\Debug\netcoreapp2.0\2. Reverse an Array of Integers.runtimeconfig.json
+C:\Programming\Softuni\Tech module\Arrays\Arrays Lab\Lab Arrays\2. Reverse an Array of Integers\bin\Debug\netcoreapp2.0\2. Reverse an Array of Integers.runtimeconfig.dev.json
+C:\Programming\Softuni\Tech module\Arrays\Arrays Lab\Lab Arrays\2. Reverse an Array of Integers\bin\Debug\netcoreapp2.0\2. Reverse an Array of Integers.dll
+C:\Programming\Softuni\Tech module\Arrays\Arrays Lab\Lab Arrays\2. Reverse an Array of Integers\bin\Debug\netcoreapp2.0\2. Reverse an Array of Integers.pdb
+C:\Programming\Softuni\Tech module\Arrays\Arrays Lab\Lab Arrays\2. Reverse an Array of Integers\obj\Debug\netcoreapp2.0\2. Reverse an Array of Integers.csproj.CoreCompileInputs.cache
+C:\Programming\Softuni\Tech module\Arrays\Arrays Lab\Lab Arrays\2. Reverse an Array of Integers\obj\Debug\netcoreapp2.0\2. Reverse an Array of Integers.AssemblyInfoInputs.cache
+C:\Programming\Softuni\Tech module\Arrays\Arrays Lab\Lab Arrays\2. Reverse an Array of Integers\obj\Debug\netcoreapp2.0\2. Reverse an Array of Integers.AssemblyInfo.cs
+C:\Programming\Softuni\Tech module\Arrays\Arrays Lab\Lab Arrays\2. Reverse an Array of Integers\obj\Debug\netcoreapp2.0\2. Reverse an Array of Integers.dll
+C:\Programming\Softuni\Tech module\Arrays\Arrays Lab\Lab Arrays\2. Reverse an Array of Integers\obj\Debug\netcoreapp2.0\2. Reverse an Array of Integers.pdb
+C:\Programming\Softuni\Tech module\Arrays\Arrays Lab\Lab Arrays\2. Reverse an Array of Integers\obj\Debug\netcoreapp2.0\2. Reverse an Array of Integers.csprojAssemblyReference.cache

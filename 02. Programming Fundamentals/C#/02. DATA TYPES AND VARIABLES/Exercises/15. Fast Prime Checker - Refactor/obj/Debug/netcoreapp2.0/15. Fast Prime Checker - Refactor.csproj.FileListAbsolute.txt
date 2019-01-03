@@ -1,0 +1,10 @@
+D:\Programming\Softuni\Tech module\Data Types and Variables\Homework\Homework\15. Fast Prime Checker - Refactor\bin\Debug\netcoreapp2.0\15. Fast Prime Checker - Refactor.deps.json
+D:\Programming\Softuni\Tech module\Data Types and Variables\Homework\Homework\15. Fast Prime Checker - Refactor\bin\Debug\netcoreapp2.0\15. Fast Prime Checker - Refactor.runtimeconfig.json
+D:\Programming\Softuni\Tech module\Data Types and Variables\Homework\Homework\15. Fast Prime Checker - Refactor\bin\Debug\netcoreapp2.0\15. Fast Prime Checker - Refactor.runtimeconfig.dev.json
+D:\Programming\Softuni\Tech module\Data Types and Variables\Homework\Homework\15. Fast Prime Checker - Refactor\bin\Debug\netcoreapp2.0\15. Fast Prime Checker - Refactor.dll
+D:\Programming\Softuni\Tech module\Data Types and Variables\Homework\Homework\15. Fast Prime Checker - Refactor\bin\Debug\netcoreapp2.0\15. Fast Prime Checker - Refactor.pdb
+D:\Programming\Softuni\Tech module\Data Types and Variables\Homework\Homework\15. Fast Prime Checker - Refactor\obj\Debug\netcoreapp2.0\15. Fast Prime Checker - Refactor.csproj.CoreCompileInputs.cache
+D:\Programming\Softuni\Tech module\Data Types and Variables\Homework\Homework\15. Fast Prime Checker - Refactor\obj\Debug\netcoreapp2.0\15. Fast Prime Checker - Refactor.AssemblyInfoInputs.cache
+D:\Programming\Softuni\Tech module\Data Types and Variables\Homework\Homework\15. Fast Prime Checker - Refactor\obj\Debug\netcoreapp2.0\15. Fast Prime Checker - Refactor.AssemblyInfo.cs
+D:\Programming\Softuni\Tech module\Data Types and Variables\Homework\Homework\15. Fast Prime Checker - Refactor\obj\Debug\netcoreapp2.0\15. Fast Prime Checker - Refactor.dll
+D:\Programming\Softuni\Tech module\Data Types and Variables\Homework\Homework\15. Fast Prime Checker - Refactor\obj\Debug\netcoreapp2.0\15. Fast Prime Checker - Refactor.pdb

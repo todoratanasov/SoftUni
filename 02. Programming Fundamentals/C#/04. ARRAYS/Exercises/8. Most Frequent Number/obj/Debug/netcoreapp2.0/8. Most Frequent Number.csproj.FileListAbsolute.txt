@@ -1,0 +1,11 @@
+C:\Programming\Softuni\Tech module\Arrays\Exercises Arrays\8. Most Frequent Number\bin\Debug\netcoreapp2.0\8. Most Frequent Number.deps.json
+C:\Programming\Softuni\Tech module\Arrays\Exercises Arrays\8. Most Frequent Number\bin\Debug\netcoreapp2.0\8. Most Frequent Number.runtimeconfig.json
+C:\Programming\Softuni\Tech module\Arrays\Exercises Arrays\8. Most Frequent Number\bin\Debug\netcoreapp2.0\8. Most Frequent Number.runtimeconfig.dev.json
+C:\Programming\Softuni\Tech module\Arrays\Exercises Arrays\8. Most Frequent Number\bin\Debug\netcoreapp2.0\8. Most Frequent Number.dll
+C:\Programming\Softuni\Tech module\Arrays\Exercises Arrays\8. Most Frequent Number\bin\Debug\netcoreapp2.0\8. Most Frequent Number.pdb
+C:\Programming\Softuni\Tech module\Arrays\Exercises Arrays\8. Most Frequent Number\obj\Debug\netcoreapp2.0\8. Most Frequent Number.csprojAssemblyReference.cache
+C:\Programming\Softuni\Tech module\Arrays\Exercises Arrays\8. Most Frequent Number\obj\Debug\netcoreapp2.0\8. Most Frequent Number.csproj.CoreCompileInputs.cache
+C:\Programming\Softuni\Tech module\Arrays\Exercises Arrays\8. Most Frequent Number\obj\Debug\netcoreapp2.0\8. Most Frequent Number.AssemblyInfoInputs.cache
+C:\Programming\Softuni\Tech module\Arrays\Exercises Arrays\8. Most Frequent Number\obj\Debug\netcoreapp2.0\8. Most Frequent Number.AssemblyInfo.cs
+C:\Programming\Softuni\Tech module\Arrays\Exercises Arrays\8. Most Frequent Number\obj\Debug\netcoreapp2.0\8. Most Frequent Number.dll
+C:\Programming\Softuni\Tech module\Arrays\Exercises Arrays\8. Most Frequent Number\obj\Debug\netcoreapp2.0\8. Most Frequent Number.pdb

@@ -1,0 +1,11 @@
+C:\Programming\Softuni\Tech module\Lists\Lab\Lists lab\1  Remove Negatives and Reverse\bin\Debug\netcoreapp2.0\1  Remove Negatives and Reverse.deps.json
+C:\Programming\Softuni\Tech module\Lists\Lab\Lists lab\1  Remove Negatives and Reverse\bin\Debug\netcoreapp2.0\1  Remove Negatives and Reverse.runtimeconfig.json
+C:\Programming\Softuni\Tech module\Lists\Lab\Lists lab\1  Remove Negatives and Reverse\bin\Debug\netcoreapp2.0\1  Remove Negatives and Reverse.runtimeconfig.dev.json
+C:\Programming\Softuni\Tech module\Lists\Lab\Lists lab\1  Remove Negatives and Reverse\bin\Debug\netcoreapp2.0\1  Remove Negatives and Reverse.dll
+C:\Programming\Softuni\Tech module\Lists\Lab\Lists lab\1  Remove Negatives and Reverse\bin\Debug\netcoreapp2.0\1  Remove Negatives and Reverse.pdb
+C:\Programming\Softuni\Tech module\Lists\Lab\Lists lab\1  Remove Negatives and Reverse\obj\Debug\netcoreapp2.0\1  Remove Negatives and Reverse.csprojAssemblyReference.cache
+C:\Programming\Softuni\Tech module\Lists\Lab\Lists lab\1  Remove Negatives and Reverse\obj\Debug\netcoreapp2.0\1  Remove Negatives and Reverse.csproj.CoreCompileInputs.cache
+C:\Programming\Softuni\Tech module\Lists\Lab\Lists lab\1  Remove Negatives and Reverse\obj\Debug\netcoreapp2.0\1  Remove Negatives and Reverse.AssemblyInfoInputs.cache
+C:\Programming\Softuni\Tech module\Lists\Lab\Lists lab\1  Remove Negatives and Reverse\obj\Debug\netcoreapp2.0\1  Remove Negatives and Reverse.AssemblyInfo.cs
+C:\Programming\Softuni\Tech module\Lists\Lab\Lists lab\1  Remove Negatives and Reverse\obj\Debug\netcoreapp2.0\1  Remove Negatives and Reverse.dll
+C:\Programming\Softuni\Tech module\Lists\Lab\Lists lab\1  Remove Negatives and Reverse\obj\Debug\netcoreapp2.0\1  Remove Negatives and Reverse.pdb

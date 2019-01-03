@@ -1,0 +1,11 @@
+C:\Programming\Softuni\Tech module\Arrays\Arrays Lab\Lab Arrays\7. Sum Arrays\bin\Debug\netcoreapp2.0\7. Sum Arrays.deps.json
+C:\Programming\Softuni\Tech module\Arrays\Arrays Lab\Lab Arrays\7. Sum Arrays\bin\Debug\netcoreapp2.0\7. Sum Arrays.runtimeconfig.json
+C:\Programming\Softuni\Tech module\Arrays\Arrays Lab\Lab Arrays\7. Sum Arrays\bin\Debug\netcoreapp2.0\7. Sum Arrays.runtimeconfig.dev.json
+C:\Programming\Softuni\Tech module\Arrays\Arrays Lab\Lab Arrays\7. Sum Arrays\bin\Debug\netcoreapp2.0\7. Sum Arrays.dll
+C:\Programming\Softuni\Tech module\Arrays\Arrays Lab\Lab Arrays\7. Sum Arrays\bin\Debug\netcoreapp2.0\7. Sum Arrays.pdb
+C:\Programming\Softuni\Tech module\Arrays\Arrays Lab\Lab Arrays\7. Sum Arrays\obj\Debug\netcoreapp2.0\7. Sum Arrays.csprojAssemblyReference.cache
+C:\Programming\Softuni\Tech module\Arrays\Arrays Lab\Lab Arrays\7. Sum Arrays\obj\Debug\netcoreapp2.0\7. Sum Arrays.csproj.CoreCompileInputs.cache
+C:\Programming\Softuni\Tech module\Arrays\Arrays Lab\Lab Arrays\7. Sum Arrays\obj\Debug\netcoreapp2.0\7. Sum Arrays.AssemblyInfoInputs.cache
+C:\Programming\Softuni\Tech module\Arrays\Arrays Lab\Lab Arrays\7. Sum Arrays\obj\Debug\netcoreapp2.0\7. Sum Arrays.AssemblyInfo.cs
+C:\Programming\Softuni\Tech module\Arrays\Arrays Lab\Lab Arrays\7. Sum Arrays\obj\Debug\netcoreapp2.0\7. Sum Arrays.dll
+C:\Programming\Softuni\Tech module\Arrays\Arrays Lab\Lab Arrays\7. Sum Arrays\obj\Debug\netcoreapp2.0\7. Sum Arrays.pdb

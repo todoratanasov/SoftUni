@@ -1,0 +1,11 @@
+C:\Programming\Softuni\Tech module\Methods, Debugging and Troubleshooting Code\Homework\11. Geometry Calculator variant 2\bin\Debug\netcoreapp2.0\12. Master Numbers.deps.json
+C:\Programming\Softuni\Tech module\Methods, Debugging and Troubleshooting Code\Homework\11. Geometry Calculator variant 2\bin\Debug\netcoreapp2.0\12. Master Numbers.runtimeconfig.json
+C:\Programming\Softuni\Tech module\Methods, Debugging and Troubleshooting Code\Homework\11. Geometry Calculator variant 2\bin\Debug\netcoreapp2.0\12. Master Numbers.runtimeconfig.dev.json
+C:\Programming\Softuni\Tech module\Methods, Debugging and Troubleshooting Code\Homework\11. Geometry Calculator variant 2\bin\Debug\netcoreapp2.0\12. Master Numbers.dll
+C:\Programming\Softuni\Tech module\Methods, Debugging and Troubleshooting Code\Homework\11. Geometry Calculator variant 2\bin\Debug\netcoreapp2.0\12. Master Numbers.pdb
+C:\Programming\Softuni\Tech module\Methods, Debugging and Troubleshooting Code\Homework\11. Geometry Calculator variant 2\obj\Debug\netcoreapp2.0\12. Master Numbers.csprojAssemblyReference.cache
+C:\Programming\Softuni\Tech module\Methods, Debugging and Troubleshooting Code\Homework\11. Geometry Calculator variant 2\obj\Debug\netcoreapp2.0\12. Master Numbers.csproj.CoreCompileInputs.cache
+C:\Programming\Softuni\Tech module\Methods, Debugging and Troubleshooting Code\Homework\11. Geometry Calculator variant 2\obj\Debug\netcoreapp2.0\12. Master Numbers.AssemblyInfoInputs.cache
+C:\Programming\Softuni\Tech module\Methods, Debugging and Troubleshooting Code\Homework\11. Geometry Calculator variant 2\obj\Debug\netcoreapp2.0\12. Master Numbers.AssemblyInfo.cs
+C:\Programming\Softuni\Tech module\Methods, Debugging and Troubleshooting Code\Homework\11. Geometry Calculator variant 2\obj\Debug\netcoreapp2.0\12. Master Numbers.dll
+C:\Programming\Softuni\Tech module\Methods, Debugging and Troubleshooting Code\Homework\11. Geometry Calculator variant 2\obj\Debug\netcoreapp2.0\12. Master Numbers.pdb

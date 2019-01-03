@@ -1,0 +1,11 @@
+C:\Programming\Softuni\Tech module\Exam 01_07_18\Problem 3 SoftUni Bar Income\obj\Debug\netcoreapp2.0\Problem 3 SoftUni Bar Income.csprojAssemblyReference.cache
+C:\Programming\Softuni\Tech module\Exam 01_07_18\Problem 3 SoftUni Bar Income\obj\Debug\netcoreapp2.0\Problem 3 SoftUni Bar Income.csproj.CoreCompileInputs.cache
+C:\Programming\Softuni\Tech module\Exam 01_07_18\Problem 3 SoftUni Bar Income\obj\Debug\netcoreapp2.0\Problem 3 SoftUni Bar Income.AssemblyInfoInputs.cache
+C:\Programming\Softuni\Tech module\Exam 01_07_18\Problem 3 SoftUni Bar Income\obj\Debug\netcoreapp2.0\Problem 3 SoftUni Bar Income.AssemblyInfo.cs
+C:\Programming\Softuni\Tech module\Exam 01_07_18\Problem 3 SoftUni Bar Income\bin\Debug\netcoreapp2.0\Problem 3 SoftUni Bar Income.deps.json
+C:\Programming\Softuni\Tech module\Exam 01_07_18\Problem 3 SoftUni Bar Income\bin\Debug\netcoreapp2.0\Problem 3 SoftUni Bar Income.runtimeconfig.json
+C:\Programming\Softuni\Tech module\Exam 01_07_18\Problem 3 SoftUni Bar Income\bin\Debug\netcoreapp2.0\Problem 3 SoftUni Bar Income.runtimeconfig.dev.json
+C:\Programming\Softuni\Tech module\Exam 01_07_18\Problem 3 SoftUni Bar Income\bin\Debug\netcoreapp2.0\Problem 3 SoftUni Bar Income.dll
+C:\Programming\Softuni\Tech module\Exam 01_07_18\Problem 3 SoftUni Bar Income\bin\Debug\netcoreapp2.0\Problem 3 SoftUni Bar Income.pdb
+C:\Programming\Softuni\Tech module\Exam 01_07_18\Problem 3 SoftUni Bar Income\obj\Debug\netcoreapp2.0\Problem 3 SoftUni Bar Income.dll
+C:\Programming\Softuni\Tech module\Exam 01_07_18\Problem 3 SoftUni Bar Income\obj\Debug\netcoreapp2.0\Problem 3 SoftUni Bar Income.pdb

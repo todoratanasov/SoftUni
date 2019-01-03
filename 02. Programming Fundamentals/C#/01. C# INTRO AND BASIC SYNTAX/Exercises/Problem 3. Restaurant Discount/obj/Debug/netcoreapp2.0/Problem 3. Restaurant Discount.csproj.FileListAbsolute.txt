@@ -1,0 +1,11 @@
+D:\Programming\Softuni\Tech module\18_05_2018 ex\Exercises\Problem 3. Restaurant Discount\obj\Debug\netcoreapp2.0\Problem 3. Restaurant Discount.csprojAssemblyReference.cache
+D:\Programming\Softuni\Tech module\18_05_2018 ex\Exercises\Problem 3. Restaurant Discount\obj\Debug\netcoreapp2.0\Problem 3. Restaurant Discount.csproj.CoreCompileInputs.cache
+D:\Programming\Softuni\Tech module\18_05_2018 ex\Exercises\Problem 3. Restaurant Discount\obj\Debug\netcoreapp2.0\Problem 3. Restaurant Discount.AssemblyInfoInputs.cache
+D:\Programming\Softuni\Tech module\18_05_2018 ex\Exercises\Problem 3. Restaurant Discount\obj\Debug\netcoreapp2.0\Problem 3. Restaurant Discount.AssemblyInfo.cs
+D:\Programming\Softuni\Tech module\18_05_2018 ex\Exercises\Problem 3. Restaurant Discount\bin\Debug\netcoreapp2.0\Problem 3. Restaurant Discount.deps.json
+D:\Programming\Softuni\Tech module\18_05_2018 ex\Exercises\Problem 3. Restaurant Discount\bin\Debug\netcoreapp2.0\Problem 3. Restaurant Discount.runtimeconfig.json
+D:\Programming\Softuni\Tech module\18_05_2018 ex\Exercises\Problem 3. Restaurant Discount\bin\Debug\netcoreapp2.0\Problem 3. Restaurant Discount.runtimeconfig.dev.json
+D:\Programming\Softuni\Tech module\18_05_2018 ex\Exercises\Problem 3. Restaurant Discount\bin\Debug\netcoreapp2.0\Problem 3. Restaurant Discount.dll
+D:\Programming\Softuni\Tech module\18_05_2018 ex\Exercises\Problem 3. Restaurant Discount\bin\Debug\netcoreapp2.0\Problem 3. Restaurant Discount.pdb
+D:\Programming\Softuni\Tech module\18_05_2018 ex\Exercises\Problem 3. Restaurant Discount\obj\Debug\netcoreapp2.0\Problem 3. Restaurant Discount.dll
+D:\Programming\Softuni\Tech module\18_05_2018 ex\Exercises\Problem 3. Restaurant Discount\obj\Debug\netcoreapp2.0\Problem 3. Restaurant Discount.pdb

@@ -1,0 +1,11 @@
+C:\Programming\Softuni\Tech module\Arrays\Exercises Arrays\2. Rotate and Sum\bin\Debug\netcoreapp2.0\2. Rotate and Sum.deps.json
+C:\Programming\Softuni\Tech module\Arrays\Exercises Arrays\2. Rotate and Sum\bin\Debug\netcoreapp2.0\2. Rotate and Sum.runtimeconfig.json
+C:\Programming\Softuni\Tech module\Arrays\Exercises Arrays\2. Rotate and Sum\bin\Debug\netcoreapp2.0\2. Rotate and Sum.runtimeconfig.dev.json
+C:\Programming\Softuni\Tech module\Arrays\Exercises Arrays\2. Rotate and Sum\bin\Debug\netcoreapp2.0\2. Rotate and Sum.dll
+C:\Programming\Softuni\Tech module\Arrays\Exercises Arrays\2. Rotate and Sum\bin\Debug\netcoreapp2.0\2. Rotate and Sum.pdb
+C:\Programming\Softuni\Tech module\Arrays\Exercises Arrays\2. Rotate and Sum\obj\Debug\netcoreapp2.0\2. Rotate and Sum.csprojAssemblyReference.cache
+C:\Programming\Softuni\Tech module\Arrays\Exercises Arrays\2. Rotate and Sum\obj\Debug\netcoreapp2.0\2. Rotate and Sum.csproj.CoreCompileInputs.cache
+C:\Programming\Softuni\Tech module\Arrays\Exercises Arrays\2. Rotate and Sum\obj\Debug\netcoreapp2.0\2. Rotate and Sum.AssemblyInfoInputs.cache
+C:\Programming\Softuni\Tech module\Arrays\Exercises Arrays\2. Rotate and Sum\obj\Debug\netcoreapp2.0\2. Rotate and Sum.AssemblyInfo.cs
+C:\Programming\Softuni\Tech module\Arrays\Exercises Arrays\2. Rotate and Sum\obj\Debug\netcoreapp2.0\2. Rotate and Sum.dll
+C:\Programming\Softuni\Tech module\Arrays\Exercises Arrays\2. Rotate and Sum\obj\Debug\netcoreapp2.0\2. Rotate and Sum.pdb

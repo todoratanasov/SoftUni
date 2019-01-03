@@ -1,0 +1,11 @@
+D:\Programming\Softuni\Tech module\Data Types and Variables\Homework\Homework\4. Variable in Hexadecimal Format\bin\Debug\netcoreapp2.0\4. Variable in Hexadecimal Format.deps.json
+D:\Programming\Softuni\Tech module\Data Types and Variables\Homework\Homework\4. Variable in Hexadecimal Format\bin\Debug\netcoreapp2.0\4. Variable in Hexadecimal Format.runtimeconfig.json
+D:\Programming\Softuni\Tech module\Data Types and Variables\Homework\Homework\4. Variable in Hexadecimal Format\bin\Debug\netcoreapp2.0\4. Variable in Hexadecimal Format.runtimeconfig.dev.json
+D:\Programming\Softuni\Tech module\Data Types and Variables\Homework\Homework\4. Variable in Hexadecimal Format\bin\Debug\netcoreapp2.0\4. Variable in Hexadecimal Format.dll
+D:\Programming\Softuni\Tech module\Data Types and Variables\Homework\Homework\4. Variable in Hexadecimal Format\bin\Debug\netcoreapp2.0\4. Variable in Hexadecimal Format.pdb
+D:\Programming\Softuni\Tech module\Data Types and Variables\Homework\Homework\4. Variable in Hexadecimal Format\obj\Debug\netcoreapp2.0\4. Variable in Hexadecimal Format.csprojAssemblyReference.cache
+D:\Programming\Softuni\Tech module\Data Types and Variables\Homework\Homework\4. Variable in Hexadecimal Format\obj\Debug\netcoreapp2.0\4. Variable in Hexadecimal Format.csproj.CoreCompileInputs.cache
+D:\Programming\Softuni\Tech module\Data Types and Variables\Homework\Homework\4. Variable in Hexadecimal Format\obj\Debug\netcoreapp2.0\4. Variable in Hexadecimal Format.AssemblyInfoInputs.cache
+D:\Programming\Softuni\Tech module\Data Types and Variables\Homework\Homework\4. Variable in Hexadecimal Format\obj\Debug\netcoreapp2.0\4. Variable in Hexadecimal Format.AssemblyInfo.cs
+D:\Programming\Softuni\Tech module\Data Types and Variables\Homework\Homework\4. Variable in Hexadecimal Format\obj\Debug\netcoreapp2.0\4. Variable in Hexadecimal Format.dll
+D:\Programming\Softuni\Tech module\Data Types and Variables\Homework\Homework\4. Variable in Hexadecimal Format\obj\Debug\netcoreapp2.0\4. Variable in Hexadecimal Format.pdb

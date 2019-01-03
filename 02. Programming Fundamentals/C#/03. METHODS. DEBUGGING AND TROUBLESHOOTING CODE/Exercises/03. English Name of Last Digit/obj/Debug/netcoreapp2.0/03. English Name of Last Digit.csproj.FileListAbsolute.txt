@@ -1,0 +1,11 @@
+D:\Programming\Softuni\Tech module\Methods, Debugging and Troubleshooting Code\Homework\03. English Name of Last Digit\bin\Debug\netcoreapp2.0\03. English Name of Last Digit.deps.json
+D:\Programming\Softuni\Tech module\Methods, Debugging and Troubleshooting Code\Homework\03. English Name of Last Digit\bin\Debug\netcoreapp2.0\03. English Name of Last Digit.runtimeconfig.json
+D:\Programming\Softuni\Tech module\Methods, Debugging and Troubleshooting Code\Homework\03. English Name of Last Digit\bin\Debug\netcoreapp2.0\03. English Name of Last Digit.runtimeconfig.dev.json
+D:\Programming\Softuni\Tech module\Methods, Debugging and Troubleshooting Code\Homework\03. English Name of Last Digit\bin\Debug\netcoreapp2.0\03. English Name of Last Digit.dll
+D:\Programming\Softuni\Tech module\Methods, Debugging and Troubleshooting Code\Homework\03. English Name of Last Digit\bin\Debug\netcoreapp2.0\03. English Name of Last Digit.pdb
+D:\Programming\Softuni\Tech module\Methods, Debugging and Troubleshooting Code\Homework\03. English Name of Last Digit\obj\Debug\netcoreapp2.0\03. English Name of Last Digit.csprojAssemblyReference.cache
+D:\Programming\Softuni\Tech module\Methods, Debugging and Troubleshooting Code\Homework\03. English Name of Last Digit\obj\Debug\netcoreapp2.0\03. English Name of Last Digit.csproj.CoreCompileInputs.cache
+D:\Programming\Softuni\Tech module\Methods, Debugging and Troubleshooting Code\Homework\03. English Name of Last Digit\obj\Debug\netcoreapp2.0\03. English Name of Last Digit.AssemblyInfoInputs.cache
+D:\Programming\Softuni\Tech module\Methods, Debugging and Troubleshooting Code\Homework\03. English Name of Last Digit\obj\Debug\netcoreapp2.0\03. English Name of Last Digit.AssemblyInfo.cs
+D:\Programming\Softuni\Tech module\Methods, Debugging and Troubleshooting Code\Homework\03. English Name of Last Digit\obj\Debug\netcoreapp2.0\03. English Name of Last Digit.dll
+D:\Programming\Softuni\Tech module\Methods, Debugging and Troubleshooting Code\Homework\03. English Name of Last Digit\obj\Debug\netcoreapp2.0\03. English Name of Last Digit.pdb

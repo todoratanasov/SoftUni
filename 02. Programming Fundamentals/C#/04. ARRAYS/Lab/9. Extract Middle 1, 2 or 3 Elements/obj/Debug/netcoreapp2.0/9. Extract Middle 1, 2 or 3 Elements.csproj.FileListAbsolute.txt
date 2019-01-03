@@ -1,0 +1,11 @@
+C:\Programming\Softuni\Tech module\Arrays\Arrays Lab\Lab Arrays\9. Extract Middle 1, 2 or 3 Elements\bin\Debug\netcoreapp2.0\9. Extract Middle 1, 2 or 3 Elements.deps.json
+C:\Programming\Softuni\Tech module\Arrays\Arrays Lab\Lab Arrays\9. Extract Middle 1, 2 or 3 Elements\bin\Debug\netcoreapp2.0\9. Extract Middle 1, 2 or 3 Elements.runtimeconfig.json
+C:\Programming\Softuni\Tech module\Arrays\Arrays Lab\Lab Arrays\9. Extract Middle 1, 2 or 3 Elements\bin\Debug\netcoreapp2.0\9. Extract Middle 1, 2 or 3 Elements.runtimeconfig.dev.json
+C:\Programming\Softuni\Tech module\Arrays\Arrays Lab\Lab Arrays\9. Extract Middle 1, 2 or 3 Elements\bin\Debug\netcoreapp2.0\9. Extract Middle 1, 2 or 3 Elements.dll
+C:\Programming\Softuni\Tech module\Arrays\Arrays Lab\Lab Arrays\9. Extract Middle 1, 2 or 3 Elements\bin\Debug\netcoreapp2.0\9. Extract Middle 1, 2 or 3 Elements.pdb
+C:\Programming\Softuni\Tech module\Arrays\Arrays Lab\Lab Arrays\9. Extract Middle 1, 2 or 3 Elements\obj\Debug\netcoreapp2.0\9. Extract Middle 1, 2 or 3 Elements.csprojAssemblyReference.cache
+C:\Programming\Softuni\Tech module\Arrays\Arrays Lab\Lab Arrays\9. Extract Middle 1, 2 or 3 Elements\obj\Debug\netcoreapp2.0\9. Extract Middle 1, 2 or 3 Elements.csproj.CoreCompileInputs.cache
+C:\Programming\Softuni\Tech module\Arrays\Arrays Lab\Lab Arrays\9. Extract Middle 1, 2 or 3 Elements\obj\Debug\netcoreapp2.0\9. Extract Middle 1, 2 or 3 Elements.AssemblyInfoInputs.cache
+C:\Programming\Softuni\Tech module\Arrays\Arrays Lab\Lab Arrays\9. Extract Middle 1, 2 or 3 Elements\obj\Debug\netcoreapp2.0\9. Extract Middle 1, 2 or 3 Elements.AssemblyInfo.cs
+C:\Programming\Softuni\Tech module\Arrays\Arrays Lab\Lab Arrays\9. Extract Middle 1, 2 or 3 Elements\obj\Debug\netcoreapp2.0\9. Extract Middle 1, 2 or 3 Elements.dll
+C:\Programming\Softuni\Tech module\Arrays\Arrays Lab\Lab Arrays\9. Extract Middle 1, 2 or 3 Elements\obj\Debug\netcoreapp2.0\9. Extract Middle 1, 2 or 3 Elements.pdb

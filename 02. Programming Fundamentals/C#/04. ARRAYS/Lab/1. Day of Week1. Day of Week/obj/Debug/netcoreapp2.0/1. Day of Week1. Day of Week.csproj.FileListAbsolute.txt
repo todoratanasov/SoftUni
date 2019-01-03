@@ -1,0 +1,10 @@
+C:\Programming\Softuni\Tech module\Arrays\Arrays Lab\Lab Arrays\1. Day of Week1. Day of Week\bin\Debug\netcoreapp2.0\1. Day of Week1. Day of Week.deps.json
+C:\Programming\Softuni\Tech module\Arrays\Arrays Lab\Lab Arrays\1. Day of Week1. Day of Week\bin\Debug\netcoreapp2.0\1. Day of Week1. Day of Week.runtimeconfig.json
+C:\Programming\Softuni\Tech module\Arrays\Arrays Lab\Lab Arrays\1. Day of Week1. Day of Week\bin\Debug\netcoreapp2.0\1. Day of Week1. Day of Week.runtimeconfig.dev.json
+C:\Programming\Softuni\Tech module\Arrays\Arrays Lab\Lab Arrays\1. Day of Week1. Day of Week\bin\Debug\netcoreapp2.0\1. Day of Week1. Day of Week.dll
+C:\Programming\Softuni\Tech module\Arrays\Arrays Lab\Lab Arrays\1. Day of Week1. Day of Week\bin\Debug\netcoreapp2.0\1. Day of Week1. Day of Week.pdb
+C:\Programming\Softuni\Tech module\Arrays\Arrays Lab\Lab Arrays\1. Day of Week1. Day of Week\obj\Debug\netcoreapp2.0\1. Day of Week1. Day of Week.csproj.CoreCompileInputs.cache
+C:\Programming\Softuni\Tech module\Arrays\Arrays Lab\Lab Arrays\1. Day of Week1. Day of Week\obj\Debug\netcoreapp2.0\1. Day of Week1. Day of Week.AssemblyInfoInputs.cache
+C:\Programming\Softuni\Tech module\Arrays\Arrays Lab\Lab Arrays\1. Day of Week1. Day of Week\obj\Debug\netcoreapp2.0\1. Day of Week1. Day of Week.AssemblyInfo.cs
+C:\Programming\Softuni\Tech module\Arrays\Arrays Lab\Lab Arrays\1. Day of Week1. Day of Week\obj\Debug\netcoreapp2.0\1. Day of Week1. Day of Week.dll
+C:\Programming\Softuni\Tech module\Arrays\Arrays Lab\Lab Arrays\1. Day of Week1. Day of Week\obj\Debug\netcoreapp2.0\1. Day of Week1. Day of Week.pdb

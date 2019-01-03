@@ -1,0 +1,10 @@
+C:\Programming\Softuni\Tech module\Lists\Lab\Lists lab\6. Square Numbers\bin\Debug\netcoreapp2.0\6. Square Numbers.deps.json
+C:\Programming\Softuni\Tech module\Lists\Lab\Lists lab\6. Square Numbers\bin\Debug\netcoreapp2.0\6. Square Numbers.runtimeconfig.json
+C:\Programming\Softuni\Tech module\Lists\Lab\Lists lab\6. Square Numbers\bin\Debug\netcoreapp2.0\6. Square Numbers.runtimeconfig.dev.json
+C:\Programming\Softuni\Tech module\Lists\Lab\Lists lab\6. Square Numbers\bin\Debug\netcoreapp2.0\6. Square Numbers.dll
+C:\Programming\Softuni\Tech module\Lists\Lab\Lists lab\6. Square Numbers\bin\Debug\netcoreapp2.0\6. Square Numbers.pdb
+C:\Programming\Softuni\Tech module\Lists\Lab\Lists lab\6. Square Numbers\obj\Debug\netcoreapp2.0\6. Square Numbers.csproj.CoreCompileInputs.cache
+C:\Programming\Softuni\Tech module\Lists\Lab\Lists lab\6. Square Numbers\obj\Debug\netcoreapp2.0\6. Square Numbers.AssemblyInfoInputs.cache
+C:\Programming\Softuni\Tech module\Lists\Lab\Lists lab\6. Square Numbers\obj\Debug\netcoreapp2.0\6. Square Numbers.AssemblyInfo.cs
+C:\Programming\Softuni\Tech module\Lists\Lab\Lists lab\6. Square Numbers\obj\Debug\netcoreapp2.0\6. Square Numbers.dll
+C:\Programming\Softuni\Tech module\Lists\Lab\Lists lab\6. Square Numbers\obj\Debug\netcoreapp2.0\6. Square Numbers.pdb

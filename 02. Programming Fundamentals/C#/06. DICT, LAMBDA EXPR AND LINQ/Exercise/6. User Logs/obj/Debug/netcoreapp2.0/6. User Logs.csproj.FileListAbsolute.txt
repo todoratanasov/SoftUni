@@ -1,0 +1,11 @@
+C:\Programming\Softuni\Tech module\Dictionaries, Lambda Expressions and LINQ\Dict Lambd Linq exer\6. User Logs\bin\Debug\netcoreapp2.0\6. User Logs.deps.json
+C:\Programming\Softuni\Tech module\Dictionaries, Lambda Expressions and LINQ\Dict Lambd Linq exer\6. User Logs\bin\Debug\netcoreapp2.0\6. User Logs.runtimeconfig.json
+C:\Programming\Softuni\Tech module\Dictionaries, Lambda Expressions and LINQ\Dict Lambd Linq exer\6. User Logs\bin\Debug\netcoreapp2.0\6. User Logs.runtimeconfig.dev.json
+C:\Programming\Softuni\Tech module\Dictionaries, Lambda Expressions and LINQ\Dict Lambd Linq exer\6. User Logs\bin\Debug\netcoreapp2.0\6. User Logs.dll
+C:\Programming\Softuni\Tech module\Dictionaries, Lambda Expressions and LINQ\Dict Lambd Linq exer\6. User Logs\bin\Debug\netcoreapp2.0\6. User Logs.pdb
+C:\Programming\Softuni\Tech module\Dictionaries, Lambda Expressions and LINQ\Dict Lambd Linq exer\6. User Logs\obj\Debug\netcoreapp2.0\6. User Logs.csproj.CoreCompileInputs.cache
+C:\Programming\Softuni\Tech module\Dictionaries, Lambda Expressions and LINQ\Dict Lambd Linq exer\6. User Logs\obj\Debug\netcoreapp2.0\6. User Logs.AssemblyInfoInputs.cache
+C:\Programming\Softuni\Tech module\Dictionaries, Lambda Expressions and LINQ\Dict Lambd Linq exer\6. User Logs\obj\Debug\netcoreapp2.0\6. User Logs.AssemblyInfo.cs
+C:\Programming\Softuni\Tech module\Dictionaries, Lambda Expressions and LINQ\Dict Lambd Linq exer\6. User Logs\obj\Debug\netcoreapp2.0\6. User Logs.dll
+C:\Programming\Softuni\Tech module\Dictionaries, Lambda Expressions and LINQ\Dict Lambd Linq exer\6. User Logs\obj\Debug\netcoreapp2.0\6. User Logs.pdb
+C:\Programming\Softuni\Tech module\Dictionaries, Lambda Expressions and LINQ\Dict Lambd Linq exer\6. User Logs\obj\Debug\netcoreapp2.0\6. User Logs.csprojAssemblyReference.cache

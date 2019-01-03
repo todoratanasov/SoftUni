@@ -1,0 +1,11 @@
+C:\Programming\Softuni\Tech module\Arrays\Exercises Arrays\4. Sieve of Eratosthenes\bin\Debug\netcoreapp2.0\4. Sieve of Eratosthenes.deps.json
+C:\Programming\Softuni\Tech module\Arrays\Exercises Arrays\4. Sieve of Eratosthenes\bin\Debug\netcoreapp2.0\4. Sieve of Eratosthenes.runtimeconfig.json
+C:\Programming\Softuni\Tech module\Arrays\Exercises Arrays\4. Sieve of Eratosthenes\bin\Debug\netcoreapp2.0\4. Sieve of Eratosthenes.runtimeconfig.dev.json
+C:\Programming\Softuni\Tech module\Arrays\Exercises Arrays\4. Sieve of Eratosthenes\bin\Debug\netcoreapp2.0\4. Sieve of Eratosthenes.dll
+C:\Programming\Softuni\Tech module\Arrays\Exercises Arrays\4. Sieve of Eratosthenes\bin\Debug\netcoreapp2.0\4. Sieve of Eratosthenes.pdb
+C:\Programming\Softuni\Tech module\Arrays\Exercises Arrays\4. Sieve of Eratosthenes\obj\Debug\netcoreapp2.0\4. Sieve of Eratosthenes.csprojAssemblyReference.cache
+C:\Programming\Softuni\Tech module\Arrays\Exercises Arrays\4. Sieve of Eratosthenes\obj\Debug\netcoreapp2.0\4. Sieve of Eratosthenes.csproj.CoreCompileInputs.cache
+C:\Programming\Softuni\Tech module\Arrays\Exercises Arrays\4. Sieve of Eratosthenes\obj\Debug\netcoreapp2.0\4. Sieve of Eratosthenes.AssemblyInfoInputs.cache
+C:\Programming\Softuni\Tech module\Arrays\Exercises Arrays\4. Sieve of Eratosthenes\obj\Debug\netcoreapp2.0\4. Sieve of Eratosthenes.AssemblyInfo.cs
+C:\Programming\Softuni\Tech module\Arrays\Exercises Arrays\4. Sieve of Eratosthenes\obj\Debug\netcoreapp2.0\4. Sieve of Eratosthenes.dll
+C:\Programming\Softuni\Tech module\Arrays\Exercises Arrays\4. Sieve of Eratosthenes\obj\Debug\netcoreapp2.0\4. Sieve of Eratosthenes.pdb

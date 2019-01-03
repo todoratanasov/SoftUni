@@ -1,0 +1,10 @@
+D:\Programming\Softuni\Tech module\Data Types and Variables\Homework\Homework\7. Exchange Variable Values\bin\Debug\netcoreapp2.0\7. Exchange Variable Values.deps.json
+D:\Programming\Softuni\Tech module\Data Types and Variables\Homework\Homework\7. Exchange Variable Values\bin\Debug\netcoreapp2.0\7. Exchange Variable Values.runtimeconfig.json
+D:\Programming\Softuni\Tech module\Data Types and Variables\Homework\Homework\7. Exchange Variable Values\bin\Debug\netcoreapp2.0\7. Exchange Variable Values.runtimeconfig.dev.json
+D:\Programming\Softuni\Tech module\Data Types and Variables\Homework\Homework\7. Exchange Variable Values\bin\Debug\netcoreapp2.0\7. Exchange Variable Values.dll
+D:\Programming\Softuni\Tech module\Data Types and Variables\Homework\Homework\7. Exchange Variable Values\bin\Debug\netcoreapp2.0\7. Exchange Variable Values.pdb
+D:\Programming\Softuni\Tech module\Data Types and Variables\Homework\Homework\7. Exchange Variable Values\obj\Debug\netcoreapp2.0\7. Exchange Variable Values.csproj.CoreCompileInputs.cache
+D:\Programming\Softuni\Tech module\Data Types and Variables\Homework\Homework\7. Exchange Variable Values\obj\Debug\netcoreapp2.0\7. Exchange Variable Values.AssemblyInfoInputs.cache
+D:\Programming\Softuni\Tech module\Data Types and Variables\Homework\Homework\7. Exchange Variable Values\obj\Debug\netcoreapp2.0\7. Exchange Variable Values.AssemblyInfo.cs
+D:\Programming\Softuni\Tech module\Data Types and Variables\Homework\Homework\7. Exchange Variable Values\obj\Debug\netcoreapp2.0\7. Exchange Variable Values.dll
+D:\Programming\Softuni\Tech module\Data Types and Variables\Homework\Homework\7. Exchange Variable Values\obj\Debug\netcoreapp2.0\7. Exchange Variable Values.pdb

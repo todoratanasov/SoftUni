@@ -1,0 +1,11 @@
+C:\Programming\Softuni\Tech module\Dictionaries, Lambda Expressions and LINQ\Dict Lambd Linq exer\5. Hands of Cards\bin\Debug\netcoreapp2.0\5. Hands of Cards.deps.json
+C:\Programming\Softuni\Tech module\Dictionaries, Lambda Expressions and LINQ\Dict Lambd Linq exer\5. Hands of Cards\bin\Debug\netcoreapp2.0\5. Hands of Cards.runtimeconfig.json
+C:\Programming\Softuni\Tech module\Dictionaries, Lambda Expressions and LINQ\Dict Lambd Linq exer\5. Hands of Cards\bin\Debug\netcoreapp2.0\5. Hands of Cards.runtimeconfig.dev.json
+C:\Programming\Softuni\Tech module\Dictionaries, Lambda Expressions and LINQ\Dict Lambd Linq exer\5. Hands of Cards\bin\Debug\netcoreapp2.0\5. Hands of Cards.dll
+C:\Programming\Softuni\Tech module\Dictionaries, Lambda Expressions and LINQ\Dict Lambd Linq exer\5. Hands of Cards\bin\Debug\netcoreapp2.0\5. Hands of Cards.pdb
+C:\Programming\Softuni\Tech module\Dictionaries, Lambda Expressions and LINQ\Dict Lambd Linq exer\5. Hands of Cards\obj\Debug\netcoreapp2.0\5. Hands of Cards.csproj.CoreCompileInputs.cache
+C:\Programming\Softuni\Tech module\Dictionaries, Lambda Expressions and LINQ\Dict Lambd Linq exer\5. Hands of Cards\obj\Debug\netcoreapp2.0\5. Hands of Cards.AssemblyInfoInputs.cache
+C:\Programming\Softuni\Tech module\Dictionaries, Lambda Expressions and LINQ\Dict Lambd Linq exer\5. Hands of Cards\obj\Debug\netcoreapp2.0\5. Hands of Cards.AssemblyInfo.cs
+C:\Programming\Softuni\Tech module\Dictionaries, Lambda Expressions and LINQ\Dict Lambd Linq exer\5. Hands of Cards\obj\Debug\netcoreapp2.0\5. Hands of Cards.dll
+C:\Programming\Softuni\Tech module\Dictionaries, Lambda Expressions and LINQ\Dict Lambd Linq exer\5. Hands of Cards\obj\Debug\netcoreapp2.0\5. Hands of Cards.pdb
+C:\Programming\Softuni\Tech module\Dictionaries, Lambda Expressions and LINQ\Dict Lambd Linq exer\5. Hands of Cards\obj\Debug\netcoreapp2.0\5. Hands of Cards.csprojAssemblyReference.cache

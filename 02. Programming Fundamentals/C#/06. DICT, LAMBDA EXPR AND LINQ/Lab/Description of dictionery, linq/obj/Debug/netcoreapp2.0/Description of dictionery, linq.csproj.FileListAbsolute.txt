@@ -1,0 +1,22 @@
+c:\users\x\source\repos\Dictionaries, Lambda Expressions and LINQ\Description of dictionery, linq\bin\Debug\netcoreapp2.0\Description of dictionery, linq.deps.json
+c:\users\x\source\repos\Dictionaries, Lambda Expressions and LINQ\Description of dictionery, linq\bin\Debug\netcoreapp2.0\Description of dictionery, linq.runtimeconfig.json
+c:\users\x\source\repos\Dictionaries, Lambda Expressions and LINQ\Description of dictionery, linq\bin\Debug\netcoreapp2.0\Description of dictionery, linq.runtimeconfig.dev.json
+c:\users\x\source\repos\Dictionaries, Lambda Expressions and LINQ\Description of dictionery, linq\bin\Debug\netcoreapp2.0\Description of dictionery, linq.dll
+c:\users\x\source\repos\Dictionaries, Lambda Expressions and LINQ\Description of dictionery, linq\bin\Debug\netcoreapp2.0\Description of dictionery, linq.pdb
+c:\users\x\source\repos\Dictionaries, Lambda Expressions and LINQ\Description of dictionery, linq\obj\Debug\netcoreapp2.0\Description of dictionery, linq.csprojAssemblyReference.cache
+c:\users\x\source\repos\Dictionaries, Lambda Expressions and LINQ\Description of dictionery, linq\obj\Debug\netcoreapp2.0\Description of dictionery, linq.csproj.CoreCompileInputs.cache
+c:\users\x\source\repos\Dictionaries, Lambda Expressions and LINQ\Description of dictionery, linq\obj\Debug\netcoreapp2.0\Description of dictionery, linq.AssemblyInfoInputs.cache
+c:\users\x\source\repos\Dictionaries, Lambda Expressions and LINQ\Description of dictionery, linq\obj\Debug\netcoreapp2.0\Description of dictionery, linq.AssemblyInfo.cs
+c:\users\x\source\repos\Dictionaries, Lambda Expressions and LINQ\Description of dictionery, linq\obj\Debug\netcoreapp2.0\Description of dictionery, linq.dll
+c:\users\x\source\repos\Dictionaries, Lambda Expressions and LINQ\Description of dictionery, linq\obj\Debug\netcoreapp2.0\Description of dictionery, linq.pdb
+C:\Programming\Softuni\Tech module\Dictionaries, Lambda Expressions and LINQ\Description of dictionery, linq\obj\Debug\netcoreapp2.0\Description of dictionery, linq.csprojAssemblyReference.cache
+C:\Programming\Softuni\Tech module\Dictionaries, Lambda Expressions and LINQ\Description of dictionery, linq\obj\Debug\netcoreapp2.0\Description of dictionery, linq.csproj.CoreCompileInputs.cache
+C:\Programming\Softuni\Tech module\Dictionaries, Lambda Expressions and LINQ\Description of dictionery, linq\obj\Debug\netcoreapp2.0\Description of dictionery, linq.AssemblyInfoInputs.cache
+C:\Programming\Softuni\Tech module\Dictionaries, Lambda Expressions and LINQ\Description of dictionery, linq\obj\Debug\netcoreapp2.0\Description of dictionery, linq.AssemblyInfo.cs
+C:\Programming\Softuni\Tech module\Dictionaries, Lambda Expressions and LINQ\Description of dictionery, linq\obj\Debug\netcoreapp2.0\Description of dictionery, linq.dll
+C:\Programming\Softuni\Tech module\Dictionaries, Lambda Expressions and LINQ\Description of dictionery, linq\obj\Debug\netcoreapp2.0\Description of dictionery, linq.pdb
+C:\Programming\Softuni\Tech module\Dictionaries, Lambda Expressions and LINQ\Description of dictionery, linq\bin\Debug\netcoreapp2.0\Description of dictionery, linq.deps.json
+C:\Programming\Softuni\Tech module\Dictionaries, Lambda Expressions and LINQ\Description of dictionery, linq\bin\Debug\netcoreapp2.0\Description of dictionery, linq.runtimeconfig.json
+C:\Programming\Softuni\Tech module\Dictionaries, Lambda Expressions and LINQ\Description of dictionery, linq\bin\Debug\netcoreapp2.0\Description of dictionery, linq.runtimeconfig.dev.json
+C:\Programming\Softuni\Tech module\Dictionaries, Lambda Expressions and LINQ\Description of dictionery, linq\bin\Debug\netcoreapp2.0\Description of dictionery, linq.dll
+C:\Programming\Softuni\Tech module\Dictionaries, Lambda Expressions and LINQ\Description of dictionery, linq\bin\Debug\netcoreapp2.0\Description of dictionery, linq.pdb

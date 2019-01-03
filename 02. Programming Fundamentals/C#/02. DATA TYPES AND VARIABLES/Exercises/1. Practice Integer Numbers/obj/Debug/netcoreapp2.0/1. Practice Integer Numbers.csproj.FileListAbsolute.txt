@@ -1,0 +1,11 @@
+D:\Programming\Softuni\Tech module\Data Types and Variables\Homework\Homework\1. Practice Integer Numbers\bin\Debug\netcoreapp2.0\1. Practice Integer Numbers.deps.json
+D:\Programming\Softuni\Tech module\Data Types and Variables\Homework\Homework\1. Practice Integer Numbers\bin\Debug\netcoreapp2.0\1. Practice Integer Numbers.runtimeconfig.json
+D:\Programming\Softuni\Tech module\Data Types and Variables\Homework\Homework\1. Practice Integer Numbers\bin\Debug\netcoreapp2.0\1. Practice Integer Numbers.runtimeconfig.dev.json
+D:\Programming\Softuni\Tech module\Data Types and Variables\Homework\Homework\1. Practice Integer Numbers\bin\Debug\netcoreapp2.0\1. Practice Integer Numbers.dll
+D:\Programming\Softuni\Tech module\Data Types and Variables\Homework\Homework\1. Practice Integer Numbers\bin\Debug\netcoreapp2.0\1. Practice Integer Numbers.pdb
+D:\Programming\Softuni\Tech module\Data Types and Variables\Homework\Homework\1. Practice Integer Numbers\obj\Debug\netcoreapp2.0\1. Practice Integer Numbers.csprojAssemblyReference.cache
+D:\Programming\Softuni\Tech module\Data Types and Variables\Homework\Homework\1. Practice Integer Numbers\obj\Debug\netcoreapp2.0\1. Practice Integer Numbers.csproj.CoreCompileInputs.cache
+D:\Programming\Softuni\Tech module\Data Types and Variables\Homework\Homework\1. Practice Integer Numbers\obj\Debug\netcoreapp2.0\1. Practice Integer Numbers.AssemblyInfoInputs.cache
+D:\Programming\Softuni\Tech module\Data Types and Variables\Homework\Homework\1. Practice Integer Numbers\obj\Debug\netcoreapp2.0\1. Practice Integer Numbers.AssemblyInfo.cs
+D:\Programming\Softuni\Tech module\Data Types and Variables\Homework\Homework\1. Practice Integer Numbers\obj\Debug\netcoreapp2.0\1. Practice Integer Numbers.dll
+D:\Programming\Softuni\Tech module\Data Types and Variables\Homework\Homework\1. Practice Integer Numbers\obj\Debug\netcoreapp2.0\1. Practice Integer Numbers.pdb

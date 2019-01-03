@@ -1,0 +1,10 @@
+D:\Programming\Softuni\Tech module\Methods, Debugging and Troubleshooting Code\Homework\2. Max Method\bin\Debug\netcoreapp2.0\2. Max Method.deps.json
+D:\Programming\Softuni\Tech module\Methods, Debugging and Troubleshooting Code\Homework\2. Max Method\bin\Debug\netcoreapp2.0\2. Max Method.runtimeconfig.json
+D:\Programming\Softuni\Tech module\Methods, Debugging and Troubleshooting Code\Homework\2. Max Method\bin\Debug\netcoreapp2.0\2. Max Method.runtimeconfig.dev.json
+D:\Programming\Softuni\Tech module\Methods, Debugging and Troubleshooting Code\Homework\2. Max Method\bin\Debug\netcoreapp2.0\2. Max Method.dll
+D:\Programming\Softuni\Tech module\Methods, Debugging and Troubleshooting Code\Homework\2. Max Method\bin\Debug\netcoreapp2.0\2. Max Method.pdb
+D:\Programming\Softuni\Tech module\Methods, Debugging and Troubleshooting Code\Homework\2. Max Method\obj\Debug\netcoreapp2.0\2. Max Method.csproj.CoreCompileInputs.cache
+D:\Programming\Softuni\Tech module\Methods, Debugging and Troubleshooting Code\Homework\2. Max Method\obj\Debug\netcoreapp2.0\2. Max Method.AssemblyInfoInputs.cache
+D:\Programming\Softuni\Tech module\Methods, Debugging and Troubleshooting Code\Homework\2. Max Method\obj\Debug\netcoreapp2.0\2. Max Method.AssemblyInfo.cs
+D:\Programming\Softuni\Tech module\Methods, Debugging and Troubleshooting Code\Homework\2. Max Method\obj\Debug\netcoreapp2.0\2. Max Method.dll
+D:\Programming\Softuni\Tech module\Methods, Debugging and Troubleshooting Code\Homework\2. Max Method\obj\Debug\netcoreapp2.0\2. Max Method.pdb

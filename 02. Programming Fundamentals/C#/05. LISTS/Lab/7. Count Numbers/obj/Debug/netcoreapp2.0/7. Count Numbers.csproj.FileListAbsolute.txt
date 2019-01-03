@@ -1,0 +1,10 @@
+C:\Programming\Softuni\Tech module\Lists\Lab\Lists lab\7. Count Numbers\bin\Debug\netcoreapp2.0\7. Count Numbers.deps.json
+C:\Programming\Softuni\Tech module\Lists\Lab\Lists lab\7. Count Numbers\bin\Debug\netcoreapp2.0\7. Count Numbers.runtimeconfig.json
+C:\Programming\Softuni\Tech module\Lists\Lab\Lists lab\7. Count Numbers\bin\Debug\netcoreapp2.0\7. Count Numbers.runtimeconfig.dev.json
+C:\Programming\Softuni\Tech module\Lists\Lab\Lists lab\7. Count Numbers\bin\Debug\netcoreapp2.0\7. Count Numbers.dll
+C:\Programming\Softuni\Tech module\Lists\Lab\Lists lab\7. Count Numbers\bin\Debug\netcoreapp2.0\7. Count Numbers.pdb
+C:\Programming\Softuni\Tech module\Lists\Lab\Lists lab\7. Count Numbers\obj\Debug\netcoreapp2.0\7. Count Numbers.csproj.CoreCompileInputs.cache
+C:\Programming\Softuni\Tech module\Lists\Lab\Lists lab\7. Count Numbers\obj\Debug\netcoreapp2.0\7. Count Numbers.AssemblyInfoInputs.cache
+C:\Programming\Softuni\Tech module\Lists\Lab\Lists lab\7. Count Numbers\obj\Debug\netcoreapp2.0\7. Count Numbers.AssemblyInfo.cs
+C:\Programming\Softuni\Tech module\Lists\Lab\Lists lab\7. Count Numbers\obj\Debug\netcoreapp2.0\7. Count Numbers.dll
+C:\Programming\Softuni\Tech module\Lists\Lab\Lists lab\7. Count Numbers\obj\Debug\netcoreapp2.0\7. Count Numbers.pdb

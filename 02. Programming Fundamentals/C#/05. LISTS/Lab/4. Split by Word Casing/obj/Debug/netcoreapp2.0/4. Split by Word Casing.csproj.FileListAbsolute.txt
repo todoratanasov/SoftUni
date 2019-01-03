@@ -1,0 +1,11 @@
+C:\Programming\Softuni\Tech module\Lists\Lab\Lists lab\4. Split by Word Casing\bin\Debug\netcoreapp2.0\4. Split by Word Casing.deps.json
+C:\Programming\Softuni\Tech module\Lists\Lab\Lists lab\4. Split by Word Casing\bin\Debug\netcoreapp2.0\4. Split by Word Casing.runtimeconfig.json
+C:\Programming\Softuni\Tech module\Lists\Lab\Lists lab\4. Split by Word Casing\bin\Debug\netcoreapp2.0\4. Split by Word Casing.runtimeconfig.dev.json
+C:\Programming\Softuni\Tech module\Lists\Lab\Lists lab\4. Split by Word Casing\bin\Debug\netcoreapp2.0\4. Split by Word Casing.dll
+C:\Programming\Softuni\Tech module\Lists\Lab\Lists lab\4. Split by Word Casing\bin\Debug\netcoreapp2.0\4. Split by Word Casing.pdb
+C:\Programming\Softuni\Tech module\Lists\Lab\Lists lab\4. Split by Word Casing\obj\Debug\netcoreapp2.0\4. Split by Word Casing.csprojAssemblyReference.cache
+C:\Programming\Softuni\Tech module\Lists\Lab\Lists lab\4. Split by Word Casing\obj\Debug\netcoreapp2.0\4. Split by Word Casing.csproj.CoreCompileInputs.cache
+C:\Programming\Softuni\Tech module\Lists\Lab\Lists lab\4. Split by Word Casing\obj\Debug\netcoreapp2.0\4. Split by Word Casing.AssemblyInfoInputs.cache
+C:\Programming\Softuni\Tech module\Lists\Lab\Lists lab\4. Split by Word Casing\obj\Debug\netcoreapp2.0\4. Split by Word Casing.AssemblyInfo.cs
+C:\Programming\Softuni\Tech module\Lists\Lab\Lists lab\4. Split by Word Casing\obj\Debug\netcoreapp2.0\4. Split by Word Casing.dll
+C:\Programming\Softuni\Tech module\Lists\Lab\Lists lab\4. Split by Word Casing\obj\Debug\netcoreapp2.0\4. Split by Word Casing.pdb

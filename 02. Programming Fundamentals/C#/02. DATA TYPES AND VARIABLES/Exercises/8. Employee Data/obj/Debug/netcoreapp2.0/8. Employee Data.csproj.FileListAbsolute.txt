@@ -1,0 +1,11 @@
+D:\Programming\Softuni\Tech module\Data Types and Variables\Homework\Homework\8. Employee Data\bin\Debug\netcoreapp2.0\8. Employee Data.deps.json
+D:\Programming\Softuni\Tech module\Data Types and Variables\Homework\Homework\8. Employee Data\bin\Debug\netcoreapp2.0\8. Employee Data.runtimeconfig.json
+D:\Programming\Softuni\Tech module\Data Types and Variables\Homework\Homework\8. Employee Data\bin\Debug\netcoreapp2.0\8. Employee Data.runtimeconfig.dev.json
+D:\Programming\Softuni\Tech module\Data Types and Variables\Homework\Homework\8. Employee Data\bin\Debug\netcoreapp2.0\8. Employee Data.dll
+D:\Programming\Softuni\Tech module\Data Types and Variables\Homework\Homework\8. Employee Data\bin\Debug\netcoreapp2.0\8. Employee Data.pdb
+D:\Programming\Softuni\Tech module\Data Types and Variables\Homework\Homework\8. Employee Data\obj\Debug\netcoreapp2.0\8. Employee Data.csprojAssemblyReference.cache
+D:\Programming\Softuni\Tech module\Data Types and Variables\Homework\Homework\8. Employee Data\obj\Debug\netcoreapp2.0\8. Employee Data.csproj.CoreCompileInputs.cache
+D:\Programming\Softuni\Tech module\Data Types and Variables\Homework\Homework\8. Employee Data\obj\Debug\netcoreapp2.0\8. Employee Data.AssemblyInfoInputs.cache
+D:\Programming\Softuni\Tech module\Data Types and Variables\Homework\Homework\8. Employee Data\obj\Debug\netcoreapp2.0\8. Employee Data.AssemblyInfo.cs
+D:\Programming\Softuni\Tech module\Data Types and Variables\Homework\Homework\8. Employee Data\obj\Debug\netcoreapp2.0\8. Employee Data.dll
+D:\Programming\Softuni\Tech module\Data Types and Variables\Homework\Homework\8. Employee Data\obj\Debug\netcoreapp2.0\8. Employee Data.pdb

@@ -1,0 +1,10 @@
+C:\Programming\Softuni\Tech module\Methods, Debugging and Troubleshooting Code\Homework\9. Longer Line\bin\Debug\netcoreapp2.0\9. Longer Line.deps.json
+C:\Programming\Softuni\Tech module\Methods, Debugging and Troubleshooting Code\Homework\9. Longer Line\bin\Debug\netcoreapp2.0\9. Longer Line.runtimeconfig.json
+C:\Programming\Softuni\Tech module\Methods, Debugging and Troubleshooting Code\Homework\9. Longer Line\bin\Debug\netcoreapp2.0\9. Longer Line.runtimeconfig.dev.json
+C:\Programming\Softuni\Tech module\Methods, Debugging and Troubleshooting Code\Homework\9. Longer Line\bin\Debug\netcoreapp2.0\9. Longer Line.dll
+C:\Programming\Softuni\Tech module\Methods, Debugging and Troubleshooting Code\Homework\9. Longer Line\bin\Debug\netcoreapp2.0\9. Longer Line.pdb
+C:\Programming\Softuni\Tech module\Methods, Debugging and Troubleshooting Code\Homework\9. Longer Line\obj\Debug\netcoreapp2.0\9. Longer Line.csproj.CoreCompileInputs.cache
+C:\Programming\Softuni\Tech module\Methods, Debugging and Troubleshooting Code\Homework\9. Longer Line\obj\Debug\netcoreapp2.0\9. Longer Line.AssemblyInfoInputs.cache
+C:\Programming\Softuni\Tech module\Methods, Debugging and Troubleshooting Code\Homework\9. Longer Line\obj\Debug\netcoreapp2.0\9. Longer Line.AssemblyInfo.cs
+C:\Programming\Softuni\Tech module\Methods, Debugging and Troubleshooting Code\Homework\9. Longer Line\obj\Debug\netcoreapp2.0\9. Longer Line.dll
+C:\Programming\Softuni\Tech module\Methods, Debugging and Troubleshooting Code\Homework\9. Longer Line\obj\Debug\netcoreapp2.0\9. Longer Line.pdb

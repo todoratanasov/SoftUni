@@ -1,0 +1,11 @@
+C:\Programming\Softuni\Tech module\Exam 01_07_18\Problem 4 SoftUni Exam Results\bin\Debug\netcoreapp2.0\Problem 4 SoftUni Exam Results.deps.json
+C:\Programming\Softuni\Tech module\Exam 01_07_18\Problem 4 SoftUni Exam Results\bin\Debug\netcoreapp2.0\Problem 4 SoftUni Exam Results.runtimeconfig.json
+C:\Programming\Softuni\Tech module\Exam 01_07_18\Problem 4 SoftUni Exam Results\bin\Debug\netcoreapp2.0\Problem 4 SoftUni Exam Results.runtimeconfig.dev.json
+C:\Programming\Softuni\Tech module\Exam 01_07_18\Problem 4 SoftUni Exam Results\bin\Debug\netcoreapp2.0\Problem 4 SoftUni Exam Results.dll
+C:\Programming\Softuni\Tech module\Exam 01_07_18\Problem 4 SoftUni Exam Results\bin\Debug\netcoreapp2.0\Problem 4 SoftUni Exam Results.pdb
+C:\Programming\Softuni\Tech module\Exam 01_07_18\Problem 4 SoftUni Exam Results\obj\Debug\netcoreapp2.0\Problem 4 SoftUni Exam Results.csprojAssemblyReference.cache
+C:\Programming\Softuni\Tech module\Exam 01_07_18\Problem 4 SoftUni Exam Results\obj\Debug\netcoreapp2.0\Problem 4 SoftUni Exam Results.csproj.CoreCompileInputs.cache
+C:\Programming\Softuni\Tech module\Exam 01_07_18\Problem 4 SoftUni Exam Results\obj\Debug\netcoreapp2.0\Problem 4 SoftUni Exam Results.AssemblyInfoInputs.cache
+C:\Programming\Softuni\Tech module\Exam 01_07_18\Problem 4 SoftUni Exam Results\obj\Debug\netcoreapp2.0\Problem 4 SoftUni Exam Results.AssemblyInfo.cs
+C:\Programming\Softuni\Tech module\Exam 01_07_18\Problem 4 SoftUni Exam Results\obj\Debug\netcoreapp2.0\Problem 4 SoftUni Exam Results.dll
+C:\Programming\Softuni\Tech module\Exam 01_07_18\Problem 4 SoftUni Exam Results\obj\Debug\netcoreapp2.0\Problem 4 SoftUni Exam Results.pdb

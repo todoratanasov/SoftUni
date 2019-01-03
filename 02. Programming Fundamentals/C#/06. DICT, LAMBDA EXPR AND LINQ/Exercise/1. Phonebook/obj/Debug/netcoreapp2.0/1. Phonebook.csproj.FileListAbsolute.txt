@@ -1,0 +1,11 @@
+C:\Programming\Softuni\Tech module\Dictionaries, Lambda Expressions and LINQ\Dict Lambd Linq exer\1. Phonebook\bin\Debug\netcoreapp2.0\1. Phonebook.deps.json
+C:\Programming\Softuni\Tech module\Dictionaries, Lambda Expressions and LINQ\Dict Lambd Linq exer\1. Phonebook\bin\Debug\netcoreapp2.0\1. Phonebook.runtimeconfig.json
+C:\Programming\Softuni\Tech module\Dictionaries, Lambda Expressions and LINQ\Dict Lambd Linq exer\1. Phonebook\bin\Debug\netcoreapp2.0\1. Phonebook.runtimeconfig.dev.json
+C:\Programming\Softuni\Tech module\Dictionaries, Lambda Expressions and LINQ\Dict Lambd Linq exer\1. Phonebook\bin\Debug\netcoreapp2.0\1. Phonebook.dll
+C:\Programming\Softuni\Tech module\Dictionaries, Lambda Expressions and LINQ\Dict Lambd Linq exer\1. Phonebook\bin\Debug\netcoreapp2.0\1. Phonebook.pdb
+C:\Programming\Softuni\Tech module\Dictionaries, Lambda Expressions and LINQ\Dict Lambd Linq exer\1. Phonebook\obj\Debug\netcoreapp2.0\1. Phonebook.csprojAssemblyReference.cache
+C:\Programming\Softuni\Tech module\Dictionaries, Lambda Expressions and LINQ\Dict Lambd Linq exer\1. Phonebook\obj\Debug\netcoreapp2.0\1. Phonebook.csproj.CoreCompileInputs.cache
+C:\Programming\Softuni\Tech module\Dictionaries, Lambda Expressions and LINQ\Dict Lambd Linq exer\1. Phonebook\obj\Debug\netcoreapp2.0\1. Phonebook.AssemblyInfoInputs.cache
+C:\Programming\Softuni\Tech module\Dictionaries, Lambda Expressions and LINQ\Dict Lambd Linq exer\1. Phonebook\obj\Debug\netcoreapp2.0\1. Phonebook.AssemblyInfo.cs
+C:\Programming\Softuni\Tech module\Dictionaries, Lambda Expressions and LINQ\Dict Lambd Linq exer\1. Phonebook\obj\Debug\netcoreapp2.0\1. Phonebook.dll
+C:\Programming\Softuni\Tech module\Dictionaries, Lambda Expressions and LINQ\Dict Lambd Linq exer\1. Phonebook\obj\Debug\netcoreapp2.0\1. Phonebook.pdb

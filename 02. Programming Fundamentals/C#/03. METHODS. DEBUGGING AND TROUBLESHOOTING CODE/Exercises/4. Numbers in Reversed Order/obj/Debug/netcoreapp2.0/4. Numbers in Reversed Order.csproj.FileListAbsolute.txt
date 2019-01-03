@@ -1,0 +1,11 @@
+D:\Programming\Softuni\Tech module\Methods, Debugging and Troubleshooting Code\Homework\4. Numbers in Reversed Order\bin\Debug\netcoreapp2.0\4. Numbers in Reversed Order.deps.json
+D:\Programming\Softuni\Tech module\Methods, Debugging and Troubleshooting Code\Homework\4. Numbers in Reversed Order\bin\Debug\netcoreapp2.0\4. Numbers in Reversed Order.runtimeconfig.json
+D:\Programming\Softuni\Tech module\Methods, Debugging and Troubleshooting Code\Homework\4. Numbers in Reversed Order\bin\Debug\netcoreapp2.0\4. Numbers in Reversed Order.runtimeconfig.dev.json
+D:\Programming\Softuni\Tech module\Methods, Debugging and Troubleshooting Code\Homework\4. Numbers in Reversed Order\bin\Debug\netcoreapp2.0\4. Numbers in Reversed Order.dll
+D:\Programming\Softuni\Tech module\Methods, Debugging and Troubleshooting Code\Homework\4. Numbers in Reversed Order\bin\Debug\netcoreapp2.0\4. Numbers in Reversed Order.pdb
+D:\Programming\Softuni\Tech module\Methods, Debugging and Troubleshooting Code\Homework\4. Numbers in Reversed Order\obj\Debug\netcoreapp2.0\4. Numbers in Reversed Order.csprojAssemblyReference.cache
+D:\Programming\Softuni\Tech module\Methods, Debugging and Troubleshooting Code\Homework\4. Numbers in Reversed Order\obj\Debug\netcoreapp2.0\4. Numbers in Reversed Order.csproj.CoreCompileInputs.cache
+D:\Programming\Softuni\Tech module\Methods, Debugging and Troubleshooting Code\Homework\4. Numbers in Reversed Order\obj\Debug\netcoreapp2.0\4. Numbers in Reversed Order.AssemblyInfoInputs.cache
+D:\Programming\Softuni\Tech module\Methods, Debugging and Troubleshooting Code\Homework\4. Numbers in Reversed Order\obj\Debug\netcoreapp2.0\4. Numbers in Reversed Order.AssemblyInfo.cs
+D:\Programming\Softuni\Tech module\Methods, Debugging and Troubleshooting Code\Homework\4. Numbers in Reversed Order\obj\Debug\netcoreapp2.0\4. Numbers in Reversed Order.dll
+D:\Programming\Softuni\Tech module\Methods, Debugging and Troubleshooting Code\Homework\4. Numbers in Reversed Order\obj\Debug\netcoreapp2.0\4. Numbers in Reversed Order.pdb

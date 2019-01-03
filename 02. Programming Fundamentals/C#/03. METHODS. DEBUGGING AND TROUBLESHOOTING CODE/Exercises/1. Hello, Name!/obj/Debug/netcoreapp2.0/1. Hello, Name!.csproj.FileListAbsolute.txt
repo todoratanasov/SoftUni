@@ -1,0 +1,10 @@
+D:\Programming\Softuni\Tech module\Methods, Debugging and Troubleshooting Code\Homework\1. Hello, Name!\bin\Debug\netcoreapp2.0\1. Hello, Name!.deps.json
+D:\Programming\Softuni\Tech module\Methods, Debugging and Troubleshooting Code\Homework\1. Hello, Name!\bin\Debug\netcoreapp2.0\1. Hello, Name!.runtimeconfig.json
+D:\Programming\Softuni\Tech module\Methods, Debugging and Troubleshooting Code\Homework\1. Hello, Name!\bin\Debug\netcoreapp2.0\1. Hello, Name!.runtimeconfig.dev.json
+D:\Programming\Softuni\Tech module\Methods, Debugging and Troubleshooting Code\Homework\1. Hello, Name!\bin\Debug\netcoreapp2.0\1. Hello, Name!.dll
+D:\Programming\Softuni\Tech module\Methods, Debugging and Troubleshooting Code\Homework\1. Hello, Name!\bin\Debug\netcoreapp2.0\1. Hello, Name!.pdb
+D:\Programming\Softuni\Tech module\Methods, Debugging and Troubleshooting Code\Homework\1. Hello, Name!\obj\Debug\netcoreapp2.0\1. Hello, Name!.csproj.CoreCompileInputs.cache
+D:\Programming\Softuni\Tech module\Methods, Debugging and Troubleshooting Code\Homework\1. Hello, Name!\obj\Debug\netcoreapp2.0\1. Hello, Name!.AssemblyInfoInputs.cache
+D:\Programming\Softuni\Tech module\Methods, Debugging and Troubleshooting Code\Homework\1. Hello, Name!\obj\Debug\netcoreapp2.0\1. Hello, Name!.AssemblyInfo.cs
+D:\Programming\Softuni\Tech module\Methods, Debugging and Troubleshooting Code\Homework\1. Hello, Name!\obj\Debug\netcoreapp2.0\1. Hello, Name!.dll
+D:\Programming\Softuni\Tech module\Methods, Debugging and Troubleshooting Code\Homework\1. Hello, Name!\obj\Debug\netcoreapp2.0\1. Hello, Name!.pdb

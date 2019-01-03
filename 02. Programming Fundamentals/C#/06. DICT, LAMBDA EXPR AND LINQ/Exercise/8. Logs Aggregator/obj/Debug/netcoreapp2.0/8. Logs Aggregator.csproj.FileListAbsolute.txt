@@ -1,0 +1,11 @@
+C:\Programming\Softuni\Tech module\Dictionaries, Lambda Expressions and LINQ\Dict Lambd Linq exer\8. Logs Aggregator\bin\Debug\netcoreapp2.0\8. Logs Aggregator.deps.json
+C:\Programming\Softuni\Tech module\Dictionaries, Lambda Expressions and LINQ\Dict Lambd Linq exer\8. Logs Aggregator\bin\Debug\netcoreapp2.0\8. Logs Aggregator.runtimeconfig.json
+C:\Programming\Softuni\Tech module\Dictionaries, Lambda Expressions and LINQ\Dict Lambd Linq exer\8. Logs Aggregator\bin\Debug\netcoreapp2.0\8. Logs Aggregator.runtimeconfig.dev.json
+C:\Programming\Softuni\Tech module\Dictionaries, Lambda Expressions and LINQ\Dict Lambd Linq exer\8. Logs Aggregator\bin\Debug\netcoreapp2.0\8. Logs Aggregator.dll
+C:\Programming\Softuni\Tech module\Dictionaries, Lambda Expressions and LINQ\Dict Lambd Linq exer\8. Logs Aggregator\bin\Debug\netcoreapp2.0\8. Logs Aggregator.pdb
+C:\Programming\Softuni\Tech module\Dictionaries, Lambda Expressions and LINQ\Dict Lambd Linq exer\8. Logs Aggregator\obj\Debug\netcoreapp2.0\8. Logs Aggregator.csprojAssemblyReference.cache
+C:\Programming\Softuni\Tech module\Dictionaries, Lambda Expressions and LINQ\Dict Lambd Linq exer\8. Logs Aggregator\obj\Debug\netcoreapp2.0\8. Logs Aggregator.csproj.CoreCompileInputs.cache
+C:\Programming\Softuni\Tech module\Dictionaries, Lambda Expressions and LINQ\Dict Lambd Linq exer\8. Logs Aggregator\obj\Debug\netcoreapp2.0\8. Logs Aggregator.AssemblyInfoInputs.cache
+C:\Programming\Softuni\Tech module\Dictionaries, Lambda Expressions and LINQ\Dict Lambd Linq exer\8. Logs Aggregator\obj\Debug\netcoreapp2.0\8. Logs Aggregator.AssemblyInfo.cs
+C:\Programming\Softuni\Tech module\Dictionaries, Lambda Expressions and LINQ\Dict Lambd Linq exer\8. Logs Aggregator\obj\Debug\netcoreapp2.0\8. Logs Aggregator.dll
+C:\Programming\Softuni\Tech module\Dictionaries, Lambda Expressions and LINQ\Dict Lambd Linq exer\8. Logs Aggregator\obj\Debug\netcoreapp2.0\8. Logs Aggregator.pdb

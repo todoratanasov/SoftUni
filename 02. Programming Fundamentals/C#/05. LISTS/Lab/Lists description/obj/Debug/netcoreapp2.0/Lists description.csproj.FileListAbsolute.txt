@@ -1,0 +1,11 @@
+C:\Programming\Softuni\Tech module\Lists\Lab\Lists lab\Lists description\bin\Debug\netcoreapp2.0\Lists description.deps.json
+C:\Programming\Softuni\Tech module\Lists\Lab\Lists lab\Lists description\bin\Debug\netcoreapp2.0\Lists description.runtimeconfig.json
+C:\Programming\Softuni\Tech module\Lists\Lab\Lists lab\Lists description\bin\Debug\netcoreapp2.0\Lists description.runtimeconfig.dev.json
+C:\Programming\Softuni\Tech module\Lists\Lab\Lists lab\Lists description\bin\Debug\netcoreapp2.0\Lists description.dll
+C:\Programming\Softuni\Tech module\Lists\Lab\Lists lab\Lists description\bin\Debug\netcoreapp2.0\Lists description.pdb
+C:\Programming\Softuni\Tech module\Lists\Lab\Lists lab\Lists description\obj\Debug\netcoreapp2.0\Lists description.csproj.CoreCompileInputs.cache
+C:\Programming\Softuni\Tech module\Lists\Lab\Lists lab\Lists description\obj\Debug\netcoreapp2.0\Lists description.AssemblyInfoInputs.cache
+C:\Programming\Softuni\Tech module\Lists\Lab\Lists lab\Lists description\obj\Debug\netcoreapp2.0\Lists description.AssemblyInfo.cs
+C:\Programming\Softuni\Tech module\Lists\Lab\Lists lab\Lists description\obj\Debug\netcoreapp2.0\Lists description.dll
+C:\Programming\Softuni\Tech module\Lists\Lab\Lists lab\Lists description\obj\Debug\netcoreapp2.0\Lists description.pdb
+C:\Programming\Softuni\Tech module\Lists\Lab\Lists lab\Lists description\obj\Debug\netcoreapp2.0\Lists description.csprojAssemblyReference.cache

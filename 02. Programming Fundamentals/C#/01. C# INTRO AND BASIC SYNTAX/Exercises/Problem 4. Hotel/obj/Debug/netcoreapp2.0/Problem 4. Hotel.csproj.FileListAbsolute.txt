@@ -1,0 +1,10 @@
+D:\Programming\Softuni\Tech module\18_05_2018 ex\Exercises\Problem 4. Hotel\bin\Debug\netcoreapp2.0\Problem 4. Hotel.deps.json
+D:\Programming\Softuni\Tech module\18_05_2018 ex\Exercises\Problem 4. Hotel\bin\Debug\netcoreapp2.0\Problem 4. Hotel.runtimeconfig.json
+D:\Programming\Softuni\Tech module\18_05_2018 ex\Exercises\Problem 4. Hotel\bin\Debug\netcoreapp2.0\Problem 4. Hotel.runtimeconfig.dev.json
+D:\Programming\Softuni\Tech module\18_05_2018 ex\Exercises\Problem 4. Hotel\bin\Debug\netcoreapp2.0\Problem 4. Hotel.dll
+D:\Programming\Softuni\Tech module\18_05_2018 ex\Exercises\Problem 4. Hotel\bin\Debug\netcoreapp2.0\Problem 4. Hotel.pdb
+D:\Programming\Softuni\Tech module\18_05_2018 ex\Exercises\Problem 4. Hotel\obj\Debug\netcoreapp2.0\Problem 4. Hotel.csproj.CoreCompileInputs.cache
+D:\Programming\Softuni\Tech module\18_05_2018 ex\Exercises\Problem 4. Hotel\obj\Debug\netcoreapp2.0\Problem 4. Hotel.AssemblyInfoInputs.cache
+D:\Programming\Softuni\Tech module\18_05_2018 ex\Exercises\Problem 4. Hotel\obj\Debug\netcoreapp2.0\Problem 4. Hotel.AssemblyInfo.cs
+D:\Programming\Softuni\Tech module\18_05_2018 ex\Exercises\Problem 4. Hotel\obj\Debug\netcoreapp2.0\Problem 4. Hotel.dll
+D:\Programming\Softuni\Tech module\18_05_2018 ex\Exercises\Problem 4. Hotel\obj\Debug\netcoreapp2.0\Problem 4. Hotel.pdb

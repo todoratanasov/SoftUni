@@ -1,0 +1,11 @@
+C:\Programming\Softuni\Tech module\Dictionaries, Lambda Expressions and LINQ\Dict Lambd Linq exer\7. Population Counter\bin\Debug\netcoreapp2.0\7. Population Counter.deps.json
+C:\Programming\Softuni\Tech module\Dictionaries, Lambda Expressions and LINQ\Dict Lambd Linq exer\7. Population Counter\bin\Debug\netcoreapp2.0\7. Population Counter.runtimeconfig.json
+C:\Programming\Softuni\Tech module\Dictionaries, Lambda Expressions and LINQ\Dict Lambd Linq exer\7. Population Counter\bin\Debug\netcoreapp2.0\7. Population Counter.runtimeconfig.dev.json
+C:\Programming\Softuni\Tech module\Dictionaries, Lambda Expressions and LINQ\Dict Lambd Linq exer\7. Population Counter\bin\Debug\netcoreapp2.0\7. Population Counter.dll
+C:\Programming\Softuni\Tech module\Dictionaries, Lambda Expressions and LINQ\Dict Lambd Linq exer\7. Population Counter\bin\Debug\netcoreapp2.0\7. Population Counter.pdb
+C:\Programming\Softuni\Tech module\Dictionaries, Lambda Expressions and LINQ\Dict Lambd Linq exer\7. Population Counter\obj\Debug\netcoreapp2.0\7. Population Counter.csprojAssemblyReference.cache
+C:\Programming\Softuni\Tech module\Dictionaries, Lambda Expressions and LINQ\Dict Lambd Linq exer\7. Population Counter\obj\Debug\netcoreapp2.0\7. Population Counter.csproj.CoreCompileInputs.cache
+C:\Programming\Softuni\Tech module\Dictionaries, Lambda Expressions and LINQ\Dict Lambd Linq exer\7. Population Counter\obj\Debug\netcoreapp2.0\7. Population Counter.AssemblyInfoInputs.cache
+C:\Programming\Softuni\Tech module\Dictionaries, Lambda Expressions and LINQ\Dict Lambd Linq exer\7. Population Counter\obj\Debug\netcoreapp2.0\7. Population Counter.AssemblyInfo.cs
+C:\Programming\Softuni\Tech module\Dictionaries, Lambda Expressions and LINQ\Dict Lambd Linq exer\7. Population Counter\obj\Debug\netcoreapp2.0\7. Population Counter.dll
+C:\Programming\Softuni\Tech module\Dictionaries, Lambda Expressions and LINQ\Dict Lambd Linq exer\7. Population Counter\obj\Debug\netcoreapp2.0\7. Population Counter.pdb

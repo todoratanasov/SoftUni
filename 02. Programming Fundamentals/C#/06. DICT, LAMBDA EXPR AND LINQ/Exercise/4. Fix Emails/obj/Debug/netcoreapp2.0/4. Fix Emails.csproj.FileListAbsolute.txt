@@ -1,0 +1,11 @@
+C:\Programming\Softuni\Tech module\Dictionaries, Lambda Expressions and LINQ\Dict Lambd Linq exer\4. Fix Emails\bin\Debug\netcoreapp2.0\4. Fix Emails.deps.json
+C:\Programming\Softuni\Tech module\Dictionaries, Lambda Expressions and LINQ\Dict Lambd Linq exer\4. Fix Emails\bin\Debug\netcoreapp2.0\4. Fix Emails.runtimeconfig.json
+C:\Programming\Softuni\Tech module\Dictionaries, Lambda Expressions and LINQ\Dict Lambd Linq exer\4. Fix Emails\bin\Debug\netcoreapp2.0\4. Fix Emails.runtimeconfig.dev.json
+C:\Programming\Softuni\Tech module\Dictionaries, Lambda Expressions and LINQ\Dict Lambd Linq exer\4. Fix Emails\bin\Debug\netcoreapp2.0\4. Fix Emails.dll
+C:\Programming\Softuni\Tech module\Dictionaries, Lambda Expressions and LINQ\Dict Lambd Linq exer\4. Fix Emails\bin\Debug\netcoreapp2.0\4. Fix Emails.pdb
+C:\Programming\Softuni\Tech module\Dictionaries, Lambda Expressions and LINQ\Dict Lambd Linq exer\4. Fix Emails\obj\Debug\netcoreapp2.0\4. Fix Emails.csprojAssemblyReference.cache
+C:\Programming\Softuni\Tech module\Dictionaries, Lambda Expressions and LINQ\Dict Lambd Linq exer\4. Fix Emails\obj\Debug\netcoreapp2.0\4. Fix Emails.csproj.CoreCompileInputs.cache
+C:\Programming\Softuni\Tech module\Dictionaries, Lambda Expressions and LINQ\Dict Lambd Linq exer\4. Fix Emails\obj\Debug\netcoreapp2.0\4. Fix Emails.AssemblyInfoInputs.cache
+C:\Programming\Softuni\Tech module\Dictionaries, Lambda Expressions and LINQ\Dict Lambd Linq exer\4. Fix Emails\obj\Debug\netcoreapp2.0\4. Fix Emails.AssemblyInfo.cs
+C:\Programming\Softuni\Tech module\Dictionaries, Lambda Expressions and LINQ\Dict Lambd Linq exer\4. Fix Emails\obj\Debug\netcoreapp2.0\4. Fix Emails.dll
+C:\Programming\Softuni\Tech module\Dictionaries, Lambda Expressions and LINQ\Dict Lambd Linq exer\4. Fix Emails\obj\Debug\netcoreapp2.0\4. Fix Emails.pdb

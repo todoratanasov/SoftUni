@@ -1,0 +1,11 @@
+C:\Programming\Softuni\all_problems_solved\SoftUni\02. Programming Fundamentals\C#\07. OBJ AND CLASS\Lab\01. Count work\bin\Debug\netcoreapp2.1\01. Count work.deps.json
+C:\Programming\Softuni\all_problems_solved\SoftUni\02. Programming Fundamentals\C#\07. OBJ AND CLASS\Lab\01. Count work\bin\Debug\netcoreapp2.1\01. Count work.runtimeconfig.json
+C:\Programming\Softuni\all_problems_solved\SoftUni\02. Programming Fundamentals\C#\07. OBJ AND CLASS\Lab\01. Count work\bin\Debug\netcoreapp2.1\01. Count work.runtimeconfig.dev.json
+C:\Programming\Softuni\all_problems_solved\SoftUni\02. Programming Fundamentals\C#\07. OBJ AND CLASS\Lab\01. Count work\bin\Debug\netcoreapp2.1\01. Count work.dll
+C:\Programming\Softuni\all_problems_solved\SoftUni\02. Programming Fundamentals\C#\07. OBJ AND CLASS\Lab\01. Count work\bin\Debug\netcoreapp2.1\01. Count work.pdb
+C:\Programming\Softuni\all_problems_solved\SoftUni\02. Programming Fundamentals\C#\07. OBJ AND CLASS\Lab\01. Count work\obj\Debug\netcoreapp2.1\01. Count work.csprojAssemblyReference.cache
+C:\Programming\Softuni\all_problems_solved\SoftUni\02. Programming Fundamentals\C#\07. OBJ AND CLASS\Lab\01. Count work\obj\Debug\netcoreapp2.1\01. Count work.csproj.CoreCompileInputs.cache
+C:\Programming\Softuni\all_problems_solved\SoftUni\02. Programming Fundamentals\C#\07. OBJ AND CLASS\Lab\01. Count work\obj\Debug\netcoreapp2.1\01. Count work.AssemblyInfoInputs.cache
+C:\Programming\Softuni\all_problems_solved\SoftUni\02. Programming Fundamentals\C#\07. OBJ AND CLASS\Lab\01. Count work\obj\Debug\netcoreapp2.1\01. Count work.AssemblyInfo.cs
+C:\Programming\Softuni\all_problems_solved\SoftUni\02. Programming Fundamentals\C#\07. OBJ AND CLASS\Lab\01. Count work\obj\Debug\netcoreapp2.1\01. Count work.dll
+C:\Programming\Softuni\all_problems_solved\SoftUni\02. Programming Fundamentals\C#\07. OBJ AND CLASS\Lab\01. Count work\obj\Debug\netcoreapp2.1\01. Count work.pdb

@@ -1,0 +1,11 @@
+D:\Programming\Softuni\Tech module\18_05_2018 ex\Exercises\Problem 12. Test Numbers\bin\Debug\netcoreapp2.0\Problem 12. Test Numbers.deps.json
+D:\Programming\Softuni\Tech module\18_05_2018 ex\Exercises\Problem 12. Test Numbers\bin\Debug\netcoreapp2.0\Problem 12. Test Numbers.runtimeconfig.json
+D:\Programming\Softuni\Tech module\18_05_2018 ex\Exercises\Problem 12. Test Numbers\bin\Debug\netcoreapp2.0\Problem 12. Test Numbers.runtimeconfig.dev.json
+D:\Programming\Softuni\Tech module\18_05_2018 ex\Exercises\Problem 12. Test Numbers\bin\Debug\netcoreapp2.0\Problem 12. Test Numbers.dll
+D:\Programming\Softuni\Tech module\18_05_2018 ex\Exercises\Problem 12. Test Numbers\bin\Debug\netcoreapp2.0\Problem 12. Test Numbers.pdb
+D:\Programming\Softuni\Tech module\18_05_2018 ex\Exercises\Problem 12. Test Numbers\obj\Debug\netcoreapp2.0\Problem 12. Test Numbers.csprojAssemblyReference.cache
+D:\Programming\Softuni\Tech module\18_05_2018 ex\Exercises\Problem 12. Test Numbers\obj\Debug\netcoreapp2.0\Problem 12. Test Numbers.csproj.CoreCompileInputs.cache
+D:\Programming\Softuni\Tech module\18_05_2018 ex\Exercises\Problem 12. Test Numbers\obj\Debug\netcoreapp2.0\Problem 12. Test Numbers.AssemblyInfoInputs.cache
+D:\Programming\Softuni\Tech module\18_05_2018 ex\Exercises\Problem 12. Test Numbers\obj\Debug\netcoreapp2.0\Problem 12. Test Numbers.AssemblyInfo.cs
+D:\Programming\Softuni\Tech module\18_05_2018 ex\Exercises\Problem 12. Test Numbers\obj\Debug\netcoreapp2.0\Problem 12. Test Numbers.dll
+D:\Programming\Softuni\Tech module\18_05_2018 ex\Exercises\Problem 12. Test Numbers\obj\Debug\netcoreapp2.0\Problem 12. Test Numbers.pdb

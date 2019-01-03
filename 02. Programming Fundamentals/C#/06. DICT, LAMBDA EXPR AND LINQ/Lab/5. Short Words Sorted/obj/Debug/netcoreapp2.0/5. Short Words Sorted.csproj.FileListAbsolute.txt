@@ -1,0 +1,10 @@
+C:\Programming\Softuni\Tech module\Dictionaries, Lambda Expressions and LINQ\5. Short Words Sorted\bin\Debug\netcoreapp2.0\5. Short Words Sorted.deps.json
+C:\Programming\Softuni\Tech module\Dictionaries, Lambda Expressions and LINQ\5. Short Words Sorted\bin\Debug\netcoreapp2.0\5. Short Words Sorted.runtimeconfig.json
+C:\Programming\Softuni\Tech module\Dictionaries, Lambda Expressions and LINQ\5. Short Words Sorted\bin\Debug\netcoreapp2.0\5. Short Words Sorted.runtimeconfig.dev.json
+C:\Programming\Softuni\Tech module\Dictionaries, Lambda Expressions and LINQ\5. Short Words Sorted\bin\Debug\netcoreapp2.0\5. Short Words Sorted.dll
+C:\Programming\Softuni\Tech module\Dictionaries, Lambda Expressions and LINQ\5. Short Words Sorted\bin\Debug\netcoreapp2.0\5. Short Words Sorted.pdb
+C:\Programming\Softuni\Tech module\Dictionaries, Lambda Expressions and LINQ\5. Short Words Sorted\obj\Debug\netcoreapp2.0\5. Short Words Sorted.csproj.CoreCompileInputs.cache
+C:\Programming\Softuni\Tech module\Dictionaries, Lambda Expressions and LINQ\5. Short Words Sorted\obj\Debug\netcoreapp2.0\5. Short Words Sorted.AssemblyInfoInputs.cache
+C:\Programming\Softuni\Tech module\Dictionaries, Lambda Expressions and LINQ\5. Short Words Sorted\obj\Debug\netcoreapp2.0\5. Short Words Sorted.AssemblyInfo.cs
+C:\Programming\Softuni\Tech module\Dictionaries, Lambda Expressions and LINQ\5. Short Words Sorted\obj\Debug\netcoreapp2.0\5. Short Words Sorted.dll
+C:\Programming\Softuni\Tech module\Dictionaries, Lambda Expressions and LINQ\5. Short Words Sorted\obj\Debug\netcoreapp2.0\5. Short Words Sorted.pdb

@@ -1,0 +1,10 @@
+C:\Programming\Softuni\all_problems_solved\SoftUni\02. Programming Fundamentals\C#\05. LISTS\Exercises\Lists exercise\04. Sum reversed\bin\Debug\netcoreapp2.1\04. Sum reversed.deps.json
+C:\Programming\Softuni\all_problems_solved\SoftUni\02. Programming Fundamentals\C#\05. LISTS\Exercises\Lists exercise\04. Sum reversed\bin\Debug\netcoreapp2.1\04. Sum reversed.runtimeconfig.json
+C:\Programming\Softuni\all_problems_solved\SoftUni\02. Programming Fundamentals\C#\05. LISTS\Exercises\Lists exercise\04. Sum reversed\bin\Debug\netcoreapp2.1\04. Sum reversed.runtimeconfig.dev.json
+C:\Programming\Softuni\all_problems_solved\SoftUni\02. Programming Fundamentals\C#\05. LISTS\Exercises\Lists exercise\04. Sum reversed\bin\Debug\netcoreapp2.1\04. Sum reversed.dll
+C:\Programming\Softuni\all_problems_solved\SoftUni\02. Programming Fundamentals\C#\05. LISTS\Exercises\Lists exercise\04. Sum reversed\bin\Debug\netcoreapp2.1\04. Sum reversed.pdb
+C:\Programming\Softuni\all_problems_solved\SoftUni\02. Programming Fundamentals\C#\05. LISTS\Exercises\Lists exercise\04. Sum reversed\obj\Debug\netcoreapp2.1\04. Sum reversed.csproj.CoreCompileInputs.cache
+C:\Programming\Softuni\all_problems_solved\SoftUni\02. Programming Fundamentals\C#\05. LISTS\Exercises\Lists exercise\04. Sum reversed\obj\Debug\netcoreapp2.1\04. Sum reversed.AssemblyInfoInputs.cache
+C:\Programming\Softuni\all_problems_solved\SoftUni\02. Programming Fundamentals\C#\05. LISTS\Exercises\Lists exercise\04. Sum reversed\obj\Debug\netcoreapp2.1\04. Sum reversed.AssemblyInfo.cs
+C:\Programming\Softuni\all_problems_solved\SoftUni\02. Programming Fundamentals\C#\05. LISTS\Exercises\Lists exercise\04. Sum reversed\obj\Debug\netcoreapp2.1\04. Sum reversed.dll
+C:\Programming\Softuni\all_problems_solved\SoftUni\02. Programming Fundamentals\C#\05. LISTS\Exercises\Lists exercise\04. Sum reversed\obj\Debug\netcoreapp2.1\04. Sum reversed.pdb

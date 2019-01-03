@@ -1,0 +1,11 @@
+C:\Programming\Softuni\Tech module\Arrays\Arrays Lab\Lab Arrays\8. Condense Array to Number\bin\Debug\netcoreapp2.0\8. Condense Array to Number.deps.json
+C:\Programming\Softuni\Tech module\Arrays\Arrays Lab\Lab Arrays\8. Condense Array to Number\bin\Debug\netcoreapp2.0\8. Condense Array to Number.runtimeconfig.json
+C:\Programming\Softuni\Tech module\Arrays\Arrays Lab\Lab Arrays\8. Condense Array to Number\bin\Debug\netcoreapp2.0\8. Condense Array to Number.runtimeconfig.dev.json
+C:\Programming\Softuni\Tech module\Arrays\Arrays Lab\Lab Arrays\8. Condense Array to Number\bin\Debug\netcoreapp2.0\8. Condense Array to Number.dll
+C:\Programming\Softuni\Tech module\Arrays\Arrays Lab\Lab Arrays\8. Condense Array to Number\bin\Debug\netcoreapp2.0\8. Condense Array to Number.pdb
+C:\Programming\Softuni\Tech module\Arrays\Arrays Lab\Lab Arrays\8. Condense Array to Number\obj\Debug\netcoreapp2.0\8. Condense Array to Number.csproj.CoreCompileInputs.cache
+C:\Programming\Softuni\Tech module\Arrays\Arrays Lab\Lab Arrays\8. Condense Array to Number\obj\Debug\netcoreapp2.0\8. Condense Array to Number.AssemblyInfoInputs.cache
+C:\Programming\Softuni\Tech module\Arrays\Arrays Lab\Lab Arrays\8. Condense Array to Number\obj\Debug\netcoreapp2.0\8. Condense Array to Number.AssemblyInfo.cs
+C:\Programming\Softuni\Tech module\Arrays\Arrays Lab\Lab Arrays\8. Condense Array to Number\obj\Debug\netcoreapp2.0\8. Condense Array to Number.dll
+C:\Programming\Softuni\Tech module\Arrays\Arrays Lab\Lab Arrays\8. Condense Array to Number\obj\Debug\netcoreapp2.0\8. Condense Array to Number.pdb
+C:\Programming\Softuni\Tech module\Arrays\Arrays Lab\Lab Arrays\8. Condense Array to Number\obj\Debug\netcoreapp2.0\8. Condense Array to Number.csprojAssemblyReference.cache

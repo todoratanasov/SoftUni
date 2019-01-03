@@ -1,0 +1,11 @@
+C:\Programming\Softuni\Tech module\Exam 01_07_18\Problem 2 SoftUni Course Planning\bin\Debug\netcoreapp2.0\Problem 2 SoftUni Course Planning.deps.json
+C:\Programming\Softuni\Tech module\Exam 01_07_18\Problem 2 SoftUni Course Planning\bin\Debug\netcoreapp2.0\Problem 2 SoftUni Course Planning.runtimeconfig.json
+C:\Programming\Softuni\Tech module\Exam 01_07_18\Problem 2 SoftUni Course Planning\bin\Debug\netcoreapp2.0\Problem 2 SoftUni Course Planning.runtimeconfig.dev.json
+C:\Programming\Softuni\Tech module\Exam 01_07_18\Problem 2 SoftUni Course Planning\bin\Debug\netcoreapp2.0\Problem 2 SoftUni Course Planning.dll
+C:\Programming\Softuni\Tech module\Exam 01_07_18\Problem 2 SoftUni Course Planning\bin\Debug\netcoreapp2.0\Problem 2 SoftUni Course Planning.pdb
+C:\Programming\Softuni\Tech module\Exam 01_07_18\Problem 2 SoftUni Course Planning\obj\Debug\netcoreapp2.0\Problem 2 SoftUni Course Planning.csproj.CoreCompileInputs.cache
+C:\Programming\Softuni\Tech module\Exam 01_07_18\Problem 2 SoftUni Course Planning\obj\Debug\netcoreapp2.0\Problem 2 SoftUni Course Planning.AssemblyInfoInputs.cache
+C:\Programming\Softuni\Tech module\Exam 01_07_18\Problem 2 SoftUni Course Planning\obj\Debug\netcoreapp2.0\Problem 2 SoftUni Course Planning.AssemblyInfo.cs
+C:\Programming\Softuni\Tech module\Exam 01_07_18\Problem 2 SoftUni Course Planning\obj\Debug\netcoreapp2.0\Problem 2 SoftUni Course Planning.dll
+C:\Programming\Softuni\Tech module\Exam 01_07_18\Problem 2 SoftUni Course Planning\obj\Debug\netcoreapp2.0\Problem 2 SoftUni Course Planning.pdb
+C:\Programming\Softuni\Tech module\Exam 01_07_18\Problem 2 SoftUni Course Planning\obj\Debug\netcoreapp2.0\Problem 2 SoftUni Course Planning.csprojAssemblyReference.cache

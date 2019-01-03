@@ -1,0 +1,11 @@
+C:\Programming\Softuni\Tech module\Exam 01_07_18\Problem 1 SoftUni Reception\bin\Debug\netcoreapp2.0\Problem 1 SoftUni Reception.deps.json
+C:\Programming\Softuni\Tech module\Exam 01_07_18\Problem 1 SoftUni Reception\bin\Debug\netcoreapp2.0\Problem 1 SoftUni Reception.runtimeconfig.json
+C:\Programming\Softuni\Tech module\Exam 01_07_18\Problem 1 SoftUni Reception\bin\Debug\netcoreapp2.0\Problem 1 SoftUni Reception.runtimeconfig.dev.json
+C:\Programming\Softuni\Tech module\Exam 01_07_18\Problem 1 SoftUni Reception\bin\Debug\netcoreapp2.0\Problem 1 SoftUni Reception.dll
+C:\Programming\Softuni\Tech module\Exam 01_07_18\Problem 1 SoftUni Reception\bin\Debug\netcoreapp2.0\Problem 1 SoftUni Reception.pdb
+C:\Programming\Softuni\Tech module\Exam 01_07_18\Problem 1 SoftUni Reception\obj\Debug\netcoreapp2.0\Problem 1 SoftUni Reception.csprojAssemblyReference.cache
+C:\Programming\Softuni\Tech module\Exam 01_07_18\Problem 1 SoftUni Reception\obj\Debug\netcoreapp2.0\Problem 1 SoftUni Reception.csproj.CoreCompileInputs.cache
+C:\Programming\Softuni\Tech module\Exam 01_07_18\Problem 1 SoftUni Reception\obj\Debug\netcoreapp2.0\Problem 1 SoftUni Reception.AssemblyInfoInputs.cache
+C:\Programming\Softuni\Tech module\Exam 01_07_18\Problem 1 SoftUni Reception\obj\Debug\netcoreapp2.0\Problem 1 SoftUni Reception.AssemblyInfo.cs
+C:\Programming\Softuni\Tech module\Exam 01_07_18\Problem 1 SoftUni Reception\obj\Debug\netcoreapp2.0\Problem 1 SoftUni Reception.dll
+C:\Programming\Softuni\Tech module\Exam 01_07_18\Problem 1 SoftUni Reception\obj\Debug\netcoreapp2.0\Problem 1 SoftUni Reception.pdb

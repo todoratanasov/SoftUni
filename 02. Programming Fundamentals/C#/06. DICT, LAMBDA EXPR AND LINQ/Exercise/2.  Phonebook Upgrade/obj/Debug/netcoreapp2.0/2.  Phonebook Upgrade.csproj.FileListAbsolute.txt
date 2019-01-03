@@ -1,0 +1,11 @@
+C:\Programming\Softuni\Tech module\Dictionaries, Lambda Expressions and LINQ\Dict Lambd Linq exer\2.  Phonebook Upgrade\bin\Debug\netcoreapp2.0\2.  Phonebook Upgrade.deps.json
+C:\Programming\Softuni\Tech module\Dictionaries, Lambda Expressions and LINQ\Dict Lambd Linq exer\2.  Phonebook Upgrade\bin\Debug\netcoreapp2.0\2.  Phonebook Upgrade.runtimeconfig.json
+C:\Programming\Softuni\Tech module\Dictionaries, Lambda Expressions and LINQ\Dict Lambd Linq exer\2.  Phonebook Upgrade\bin\Debug\netcoreapp2.0\2.  Phonebook Upgrade.runtimeconfig.dev.json
+C:\Programming\Softuni\Tech module\Dictionaries, Lambda Expressions and LINQ\Dict Lambd Linq exer\2.  Phonebook Upgrade\bin\Debug\netcoreapp2.0\2.  Phonebook Upgrade.dll
+C:\Programming\Softuni\Tech module\Dictionaries, Lambda Expressions and LINQ\Dict Lambd Linq exer\2.  Phonebook Upgrade\bin\Debug\netcoreapp2.0\2.  Phonebook Upgrade.pdb
+C:\Programming\Softuni\Tech module\Dictionaries, Lambda Expressions and LINQ\Dict Lambd Linq exer\2.  Phonebook Upgrade\obj\Debug\netcoreapp2.0\2.  Phonebook Upgrade.csprojAssemblyReference.cache
+C:\Programming\Softuni\Tech module\Dictionaries, Lambda Expressions and LINQ\Dict Lambd Linq exer\2.  Phonebook Upgrade\obj\Debug\netcoreapp2.0\2.  Phonebook Upgrade.csproj.CoreCompileInputs.cache
+C:\Programming\Softuni\Tech module\Dictionaries, Lambda Expressions and LINQ\Dict Lambd Linq exer\2.  Phonebook Upgrade\obj\Debug\netcoreapp2.0\2.  Phonebook Upgrade.AssemblyInfoInputs.cache
+C:\Programming\Softuni\Tech module\Dictionaries, Lambda Expressions and LINQ\Dict Lambd Linq exer\2.  Phonebook Upgrade\obj\Debug\netcoreapp2.0\2.  Phonebook Upgrade.AssemblyInfo.cs
+C:\Programming\Softuni\Tech module\Dictionaries, Lambda Expressions and LINQ\Dict Lambd Linq exer\2.  Phonebook Upgrade\obj\Debug\netcoreapp2.0\2.  Phonebook Upgrade.dll
+C:\Programming\Softuni\Tech module\Dictionaries, Lambda Expressions and LINQ\Dict Lambd Linq exer\2.  Phonebook Upgrade\obj\Debug\netcoreapp2.0\2.  Phonebook Upgrade.pdb

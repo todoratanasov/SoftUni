@@ -1,0 +1,11 @@
+D:\Programming\Softuni\Tech module\Data Types and Variables\Homework\Homework\10. Centuries to Nanoseconds\bin\Debug\netcoreapp2.0\10. Centuries to Nanoseconds.deps.json
+D:\Programming\Softuni\Tech module\Data Types and Variables\Homework\Homework\10. Centuries to Nanoseconds\bin\Debug\netcoreapp2.0\10. Centuries to Nanoseconds.runtimeconfig.json
+D:\Programming\Softuni\Tech module\Data Types and Variables\Homework\Homework\10. Centuries to Nanoseconds\bin\Debug\netcoreapp2.0\10. Centuries to Nanoseconds.runtimeconfig.dev.json
+D:\Programming\Softuni\Tech module\Data Types and Variables\Homework\Homework\10. Centuries to Nanoseconds\bin\Debug\netcoreapp2.0\10. Centuries to Nanoseconds.dll
+D:\Programming\Softuni\Tech module\Data Types and Variables\Homework\Homework\10. Centuries to Nanoseconds\bin\Debug\netcoreapp2.0\10. Centuries to Nanoseconds.pdb
+D:\Programming\Softuni\Tech module\Data Types and Variables\Homework\Homework\10. Centuries to Nanoseconds\obj\Debug\netcoreapp2.0\10. Centuries to Nanoseconds.csproj.CoreCompileInputs.cache
+D:\Programming\Softuni\Tech module\Data Types and Variables\Homework\Homework\10. Centuries to Nanoseconds\obj\Debug\netcoreapp2.0\10. Centuries to Nanoseconds.AssemblyInfoInputs.cache
+D:\Programming\Softuni\Tech module\Data Types and Variables\Homework\Homework\10. Centuries to Nanoseconds\obj\Debug\netcoreapp2.0\10. Centuries to Nanoseconds.AssemblyInfo.cs
+D:\Programming\Softuni\Tech module\Data Types and Variables\Homework\Homework\10. Centuries to Nanoseconds\obj\Debug\netcoreapp2.0\10. Centuries to Nanoseconds.dll
+D:\Programming\Softuni\Tech module\Data Types and Variables\Homework\Homework\10. Centuries to Nanoseconds\obj\Debug\netcoreapp2.0\10. Centuries to Nanoseconds.pdb
+D:\Programming\Softuni\Tech module\Data Types and Variables\Homework\Homework\10. Centuries to Nanoseconds\obj\Debug\netcoreapp2.0\10. Centuries to Nanoseconds.csprojAssemblyReference.cache

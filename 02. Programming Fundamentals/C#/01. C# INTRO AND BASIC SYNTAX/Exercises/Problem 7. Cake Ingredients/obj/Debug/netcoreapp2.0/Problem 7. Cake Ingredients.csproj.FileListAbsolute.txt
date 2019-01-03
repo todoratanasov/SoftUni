@@ -1,0 +1,11 @@
+D:\Programming\Softuni\Tech module\18_05_2018 ex\Exercises\Problem 7. Cake Ingredients\bin\Debug\netcoreapp2.0\Problem 7. Cake Ingredients.deps.json
+D:\Programming\Softuni\Tech module\18_05_2018 ex\Exercises\Problem 7. Cake Ingredients\bin\Debug\netcoreapp2.0\Problem 7. Cake Ingredients.runtimeconfig.json
+D:\Programming\Softuni\Tech module\18_05_2018 ex\Exercises\Problem 7. Cake Ingredients\bin\Debug\netcoreapp2.0\Problem 7. Cake Ingredients.runtimeconfig.dev.json
+D:\Programming\Softuni\Tech module\18_05_2018 ex\Exercises\Problem 7. Cake Ingredients\bin\Debug\netcoreapp2.0\Problem 7. Cake Ingredients.dll
+D:\Programming\Softuni\Tech module\18_05_2018 ex\Exercises\Problem 7. Cake Ingredients\bin\Debug\netcoreapp2.0\Problem 7. Cake Ingredients.pdb
+D:\Programming\Softuni\Tech module\18_05_2018 ex\Exercises\Problem 7. Cake Ingredients\obj\Debug\netcoreapp2.0\Problem 7. Cake Ingredients.csprojAssemblyReference.cache
+D:\Programming\Softuni\Tech module\18_05_2018 ex\Exercises\Problem 7. Cake Ingredients\obj\Debug\netcoreapp2.0\Problem 7. Cake Ingredients.csproj.CoreCompileInputs.cache
+D:\Programming\Softuni\Tech module\18_05_2018 ex\Exercises\Problem 7. Cake Ingredients\obj\Debug\netcoreapp2.0\Problem 7. Cake Ingredients.AssemblyInfoInputs.cache
+D:\Programming\Softuni\Tech module\18_05_2018 ex\Exercises\Problem 7. Cake Ingredients\obj\Debug\netcoreapp2.0\Problem 7. Cake Ingredients.AssemblyInfo.cs
+D:\Programming\Softuni\Tech module\18_05_2018 ex\Exercises\Problem 7. Cake Ingredients\obj\Debug\netcoreapp2.0\Problem 7. Cake Ingredients.dll
+D:\Programming\Softuni\Tech module\18_05_2018 ex\Exercises\Problem 7. Cake Ingredients\obj\Debug\netcoreapp2.0\Problem 7. Cake Ingredients.pdb

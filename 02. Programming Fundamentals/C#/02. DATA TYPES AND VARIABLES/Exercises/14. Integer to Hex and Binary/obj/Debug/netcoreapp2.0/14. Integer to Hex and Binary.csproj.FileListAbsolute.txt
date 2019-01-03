@@ -1,0 +1,10 @@
+D:\Programming\Softuni\Tech module\Data Types and Variables\Homework\Homework\14. Integer to Hex and Binary\bin\Debug\netcoreapp2.0\14. Integer to Hex and Binary.deps.json
+D:\Programming\Softuni\Tech module\Data Types and Variables\Homework\Homework\14. Integer to Hex and Binary\bin\Debug\netcoreapp2.0\14. Integer to Hex and Binary.runtimeconfig.json
+D:\Programming\Softuni\Tech module\Data Types and Variables\Homework\Homework\14. Integer to Hex and Binary\bin\Debug\netcoreapp2.0\14. Integer to Hex and Binary.runtimeconfig.dev.json
+D:\Programming\Softuni\Tech module\Data Types and Variables\Homework\Homework\14. Integer to Hex and Binary\bin\Debug\netcoreapp2.0\14. Integer to Hex and Binary.dll
+D:\Programming\Softuni\Tech module\Data Types and Variables\Homework\Homework\14. Integer to Hex and Binary\bin\Debug\netcoreapp2.0\14. Integer to Hex and Binary.pdb
+D:\Programming\Softuni\Tech module\Data Types and Variables\Homework\Homework\14. Integer to Hex and Binary\obj\Debug\netcoreapp2.0\14. Integer to Hex and Binary.csproj.CoreCompileInputs.cache
+D:\Programming\Softuni\Tech module\Data Types and Variables\Homework\Homework\14. Integer to Hex and Binary\obj\Debug\netcoreapp2.0\14. Integer to Hex and Binary.AssemblyInfoInputs.cache
+D:\Programming\Softuni\Tech module\Data Types and Variables\Homework\Homework\14. Integer to Hex and Binary\obj\Debug\netcoreapp2.0\14. Integer to Hex and Binary.AssemblyInfo.cs
+D:\Programming\Softuni\Tech module\Data Types and Variables\Homework\Homework\14. Integer to Hex and Binary\obj\Debug\netcoreapp2.0\14. Integer to Hex and Binary.dll
+D:\Programming\Softuni\Tech module\Data Types and Variables\Homework\Homework\14. Integer to Hex and Binary\obj\Debug\netcoreapp2.0\14. Integer to Hex and Binary.pdb

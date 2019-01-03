@@ -1,0 +1,11 @@
+C:\Programming\Softuni\Tech module\Arrays\Exercises Arrays\5. Compare Char Arrays\bin\Debug\netcoreapp2.0\5. Compare Char Arrays.deps.json
+C:\Programming\Softuni\Tech module\Arrays\Exercises Arrays\5. Compare Char Arrays\bin\Debug\netcoreapp2.0\5. Compare Char Arrays.runtimeconfig.json
+C:\Programming\Softuni\Tech module\Arrays\Exercises Arrays\5. Compare Char Arrays\bin\Debug\netcoreapp2.0\5. Compare Char Arrays.runtimeconfig.dev.json
+C:\Programming\Softuni\Tech module\Arrays\Exercises Arrays\5. Compare Char Arrays\bin\Debug\netcoreapp2.0\5. Compare Char Arrays.dll
+C:\Programming\Softuni\Tech module\Arrays\Exercises Arrays\5. Compare Char Arrays\bin\Debug\netcoreapp2.0\5. Compare Char Arrays.pdb
+C:\Programming\Softuni\Tech module\Arrays\Exercises Arrays\5. Compare Char Arrays\obj\Debug\netcoreapp2.0\5. Compare Char Arrays.csprojAssemblyReference.cache
+C:\Programming\Softuni\Tech module\Arrays\Exercises Arrays\5. Compare Char Arrays\obj\Debug\netcoreapp2.0\5. Compare Char Arrays.csproj.CoreCompileInputs.cache
+C:\Programming\Softuni\Tech module\Arrays\Exercises Arrays\5. Compare Char Arrays\obj\Debug\netcoreapp2.0\5. Compare Char Arrays.AssemblyInfoInputs.cache
+C:\Programming\Softuni\Tech module\Arrays\Exercises Arrays\5. Compare Char Arrays\obj\Debug\netcoreapp2.0\5. Compare Char Arrays.AssemblyInfo.cs
+C:\Programming\Softuni\Tech module\Arrays\Exercises Arrays\5. Compare Char Arrays\obj\Debug\netcoreapp2.0\5. Compare Char Arrays.dll
+C:\Programming\Softuni\Tech module\Arrays\Exercises Arrays\5. Compare Char Arrays\obj\Debug\netcoreapp2.0\5. Compare Char Arrays.pdb

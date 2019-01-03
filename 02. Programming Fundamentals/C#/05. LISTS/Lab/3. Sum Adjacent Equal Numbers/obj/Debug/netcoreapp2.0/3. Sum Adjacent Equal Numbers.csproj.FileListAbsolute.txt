@@ -1,0 +1,10 @@
+C:\Programming\Softuni\Tech module\Lists\Lab\Lists lab\3. Sum Adjacent Equal Numbers\bin\Debug\netcoreapp2.0\3. Sum Adjacent Equal Numbers.deps.json
+C:\Programming\Softuni\Tech module\Lists\Lab\Lists lab\3. Sum Adjacent Equal Numbers\bin\Debug\netcoreapp2.0\3. Sum Adjacent Equal Numbers.runtimeconfig.json
+C:\Programming\Softuni\Tech module\Lists\Lab\Lists lab\3. Sum Adjacent Equal Numbers\bin\Debug\netcoreapp2.0\3. Sum Adjacent Equal Numbers.runtimeconfig.dev.json
+C:\Programming\Softuni\Tech module\Lists\Lab\Lists lab\3. Sum Adjacent Equal Numbers\bin\Debug\netcoreapp2.0\3. Sum Adjacent Equal Numbers.dll
+C:\Programming\Softuni\Tech module\Lists\Lab\Lists lab\3. Sum Adjacent Equal Numbers\bin\Debug\netcoreapp2.0\3. Sum Adjacent Equal Numbers.pdb
+C:\Programming\Softuni\Tech module\Lists\Lab\Lists lab\3. Sum Adjacent Equal Numbers\obj\Debug\netcoreapp2.0\3. Sum Adjacent Equal Numbers.csproj.CoreCompileInputs.cache
+C:\Programming\Softuni\Tech module\Lists\Lab\Lists lab\3. Sum Adjacent Equal Numbers\obj\Debug\netcoreapp2.0\3. Sum Adjacent Equal Numbers.AssemblyInfoInputs.cache
+C:\Programming\Softuni\Tech module\Lists\Lab\Lists lab\3. Sum Adjacent Equal Numbers\obj\Debug\netcoreapp2.0\3. Sum Adjacent Equal Numbers.AssemblyInfo.cs
+C:\Programming\Softuni\Tech module\Lists\Lab\Lists lab\3. Sum Adjacent Equal Numbers\obj\Debug\netcoreapp2.0\3. Sum Adjacent Equal Numbers.dll
+C:\Programming\Softuni\Tech module\Lists\Lab\Lists lab\3. Sum Adjacent Equal Numbers\obj\Debug\netcoreapp2.0\3. Sum Adjacent Equal Numbers.pdb

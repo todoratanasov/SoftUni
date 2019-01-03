@@ -1,0 +1,11 @@
+C:\Programming\Softuni\Tech module\Methods, Debugging and Troubleshooting Code\Homework\10. Cube Properties\bin\Debug\netcoreapp2.0\10. Cube Properties.deps.json
+C:\Programming\Softuni\Tech module\Methods, Debugging and Troubleshooting Code\Homework\10. Cube Properties\bin\Debug\netcoreapp2.0\10. Cube Properties.runtimeconfig.json
+C:\Programming\Softuni\Tech module\Methods, Debugging and Troubleshooting Code\Homework\10. Cube Properties\bin\Debug\netcoreapp2.0\10. Cube Properties.runtimeconfig.dev.json
+C:\Programming\Softuni\Tech module\Methods, Debugging and Troubleshooting Code\Homework\10. Cube Properties\bin\Debug\netcoreapp2.0\10. Cube Properties.dll
+C:\Programming\Softuni\Tech module\Methods, Debugging and Troubleshooting Code\Homework\10. Cube Properties\bin\Debug\netcoreapp2.0\10. Cube Properties.pdb
+C:\Programming\Softuni\Tech module\Methods, Debugging and Troubleshooting Code\Homework\10. Cube Properties\obj\Debug\netcoreapp2.0\10. Cube Properties.csprojAssemblyReference.cache
+C:\Programming\Softuni\Tech module\Methods, Debugging and Troubleshooting Code\Homework\10. Cube Properties\obj\Debug\netcoreapp2.0\10. Cube Properties.csproj.CoreCompileInputs.cache
+C:\Programming\Softuni\Tech module\Methods, Debugging and Troubleshooting Code\Homework\10. Cube Properties\obj\Debug\netcoreapp2.0\10. Cube Properties.AssemblyInfoInputs.cache
+C:\Programming\Softuni\Tech module\Methods, Debugging and Troubleshooting Code\Homework\10. Cube Properties\obj\Debug\netcoreapp2.0\10. Cube Properties.AssemblyInfo.cs
+C:\Programming\Softuni\Tech module\Methods, Debugging and Troubleshooting Code\Homework\10. Cube Properties\obj\Debug\netcoreapp2.0\10. Cube Properties.dll
+C:\Programming\Softuni\Tech module\Methods, Debugging and Troubleshooting Code\Homework\10. Cube Properties\obj\Debug\netcoreapp2.0\10. Cube Properties.pdb

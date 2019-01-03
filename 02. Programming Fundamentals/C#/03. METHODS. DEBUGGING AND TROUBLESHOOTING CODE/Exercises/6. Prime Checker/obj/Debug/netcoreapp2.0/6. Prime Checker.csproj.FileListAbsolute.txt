@@ -1,0 +1,11 @@
+C:\Programming\Softuni\Tech module\Methods, Debugging and Troubleshooting Code\Homework\6. Prime Checker\bin\Debug\netcoreapp2.0\6. Prime Checker.deps.json
+C:\Programming\Softuni\Tech module\Methods, Debugging and Troubleshooting Code\Homework\6. Prime Checker\bin\Debug\netcoreapp2.0\6. Prime Checker.runtimeconfig.json
+C:\Programming\Softuni\Tech module\Methods, Debugging and Troubleshooting Code\Homework\6. Prime Checker\bin\Debug\netcoreapp2.0\6. Prime Checker.runtimeconfig.dev.json
+C:\Programming\Softuni\Tech module\Methods, Debugging and Troubleshooting Code\Homework\6. Prime Checker\bin\Debug\netcoreapp2.0\6. Prime Checker.dll
+C:\Programming\Softuni\Tech module\Methods, Debugging and Troubleshooting Code\Homework\6. Prime Checker\bin\Debug\netcoreapp2.0\6. Prime Checker.pdb
+C:\Programming\Softuni\Tech module\Methods, Debugging and Troubleshooting Code\Homework\6. Prime Checker\obj\Debug\netcoreapp2.0\6. Prime Checker.csproj.CoreCompileInputs.cache
+C:\Programming\Softuni\Tech module\Methods, Debugging and Troubleshooting Code\Homework\6. Prime Checker\obj\Debug\netcoreapp2.0\6. Prime Checker.AssemblyInfoInputs.cache
+C:\Programming\Softuni\Tech module\Methods, Debugging and Troubleshooting Code\Homework\6. Prime Checker\obj\Debug\netcoreapp2.0\6. Prime Checker.AssemblyInfo.cs
+C:\Programming\Softuni\Tech module\Methods, Debugging and Troubleshooting Code\Homework\6. Prime Checker\obj\Debug\netcoreapp2.0\6. Prime Checker.dll
+C:\Programming\Softuni\Tech module\Methods, Debugging and Troubleshooting Code\Homework\6. Prime Checker\obj\Debug\netcoreapp2.0\6. Prime Checker.pdb
+C:\Programming\Softuni\Tech module\Methods, Debugging and Troubleshooting Code\Homework\6. Prime Checker\obj\Debug\netcoreapp2.0\6. Prime Checker.csprojAssemblyReference.cache

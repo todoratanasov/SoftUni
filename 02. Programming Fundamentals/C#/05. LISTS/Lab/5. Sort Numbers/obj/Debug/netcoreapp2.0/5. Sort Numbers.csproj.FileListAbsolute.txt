@@ -1,0 +1,10 @@
+C:\Programming\Softuni\Tech module\Lists\Lab\Lists lab\5. Sort Numbers\bin\Debug\netcoreapp2.0\5. Sort Numbers.deps.json
+C:\Programming\Softuni\Tech module\Lists\Lab\Lists lab\5. Sort Numbers\bin\Debug\netcoreapp2.0\5. Sort Numbers.runtimeconfig.json
+C:\Programming\Softuni\Tech module\Lists\Lab\Lists lab\5. Sort Numbers\bin\Debug\netcoreapp2.0\5. Sort Numbers.runtimeconfig.dev.json
+C:\Programming\Softuni\Tech module\Lists\Lab\Lists lab\5. Sort Numbers\bin\Debug\netcoreapp2.0\5. Sort Numbers.dll
+C:\Programming\Softuni\Tech module\Lists\Lab\Lists lab\5. Sort Numbers\bin\Debug\netcoreapp2.0\5. Sort Numbers.pdb
+C:\Programming\Softuni\Tech module\Lists\Lab\Lists lab\5. Sort Numbers\obj\Debug\netcoreapp2.0\5. Sort Numbers.csproj.CoreCompileInputs.cache
+C:\Programming\Softuni\Tech module\Lists\Lab\Lists lab\5. Sort Numbers\obj\Debug\netcoreapp2.0\5. Sort Numbers.AssemblyInfoInputs.cache
+C:\Programming\Softuni\Tech module\Lists\Lab\Lists lab\5. Sort Numbers\obj\Debug\netcoreapp2.0\5. Sort Numbers.AssemblyInfo.cs
+C:\Programming\Softuni\Tech module\Lists\Lab\Lists lab\5. Sort Numbers\obj\Debug\netcoreapp2.0\5. Sort Numbers.dll
+C:\Programming\Softuni\Tech module\Lists\Lab\Lists lab\5. Sort Numbers\obj\Debug\netcoreapp2.0\5. Sort Numbers.pdb

@@ -1,0 +1,11 @@
+C:\Programming\Softuni\Tech module\Dictionaries, Lambda Expressions and LINQ\Dict Lambd Linq exer\3. A Miner Task\bin\Debug\netcoreapp2.0\3. A Miner Task.deps.json
+C:\Programming\Softuni\Tech module\Dictionaries, Lambda Expressions and LINQ\Dict Lambd Linq exer\3. A Miner Task\bin\Debug\netcoreapp2.0\3. A Miner Task.runtimeconfig.json
+C:\Programming\Softuni\Tech module\Dictionaries, Lambda Expressions and LINQ\Dict Lambd Linq exer\3. A Miner Task\bin\Debug\netcoreapp2.0\3. A Miner Task.runtimeconfig.dev.json
+C:\Programming\Softuni\Tech module\Dictionaries, Lambda Expressions and LINQ\Dict Lambd Linq exer\3. A Miner Task\bin\Debug\netcoreapp2.0\3. A Miner Task.dll
+C:\Programming\Softuni\Tech module\Dictionaries, Lambda Expressions and LINQ\Dict Lambd Linq exer\3. A Miner Task\bin\Debug\netcoreapp2.0\3. A Miner Task.pdb
+C:\Programming\Softuni\Tech module\Dictionaries, Lambda Expressions and LINQ\Dict Lambd Linq exer\3. A Miner Task\obj\Debug\netcoreapp2.0\3. A Miner Task.csprojAssemblyReference.cache
+C:\Programming\Softuni\Tech module\Dictionaries, Lambda Expressions and LINQ\Dict Lambd Linq exer\3. A Miner Task\obj\Debug\netcoreapp2.0\3. A Miner Task.csproj.CoreCompileInputs.cache
+C:\Programming\Softuni\Tech module\Dictionaries, Lambda Expressions and LINQ\Dict Lambd Linq exer\3. A Miner Task\obj\Debug\netcoreapp2.0\3. A Miner Task.AssemblyInfoInputs.cache
+C:\Programming\Softuni\Tech module\Dictionaries, Lambda Expressions and LINQ\Dict Lambd Linq exer\3. A Miner Task\obj\Debug\netcoreapp2.0\3. A Miner Task.AssemblyInfo.cs
+C:\Programming\Softuni\Tech module\Dictionaries, Lambda Expressions and LINQ\Dict Lambd Linq exer\3. A Miner Task\obj\Debug\netcoreapp2.0\3. A Miner Task.dll
+C:\Programming\Softuni\Tech module\Dictionaries, Lambda Expressions and LINQ\Dict Lambd Linq exer\3. A Miner Task\obj\Debug\netcoreapp2.0\3. A Miner Task.pdb

@@ -1,0 +1,11 @@
+C:\Programming\Softuni\Tech module\Arrays\Arrays Lab\Lab Arrays\4. Triple Sum\bin\Debug\netcoreapp2.0\4. Triple Sum.deps.json
+C:\Programming\Softuni\Tech module\Arrays\Arrays Lab\Lab Arrays\4. Triple Sum\bin\Debug\netcoreapp2.0\4. Triple Sum.runtimeconfig.json
+C:\Programming\Softuni\Tech module\Arrays\Arrays Lab\Lab Arrays\4. Triple Sum\bin\Debug\netcoreapp2.0\4. Triple Sum.runtimeconfig.dev.json
+C:\Programming\Softuni\Tech module\Arrays\Arrays Lab\Lab Arrays\4. Triple Sum\bin\Debug\netcoreapp2.0\4. Triple Sum.dll
+C:\Programming\Softuni\Tech module\Arrays\Arrays Lab\Lab Arrays\4. Triple Sum\bin\Debug\netcoreapp2.0\4. Triple Sum.pdb
+C:\Programming\Softuni\Tech module\Arrays\Arrays Lab\Lab Arrays\4. Triple Sum\obj\Debug\netcoreapp2.0\4. Triple Sum.csprojAssemblyReference.cache
+C:\Programming\Softuni\Tech module\Arrays\Arrays Lab\Lab Arrays\4. Triple Sum\obj\Debug\netcoreapp2.0\4. Triple Sum.csproj.CoreCompileInputs.cache
+C:\Programming\Softuni\Tech module\Arrays\Arrays Lab\Lab Arrays\4. Triple Sum\obj\Debug\netcoreapp2.0\4. Triple Sum.AssemblyInfoInputs.cache
+C:\Programming\Softuni\Tech module\Arrays\Arrays Lab\Lab Arrays\4. Triple Sum\obj\Debug\netcoreapp2.0\4. Triple Sum.AssemblyInfo.cs
+C:\Programming\Softuni\Tech module\Arrays\Arrays Lab\Lab Arrays\4. Triple Sum\obj\Debug\netcoreapp2.0\4. Triple Sum.dll
+C:\Programming\Softuni\Tech module\Arrays\Arrays Lab\Lab Arrays\4. Triple Sum\obj\Debug\netcoreapp2.0\4. Triple Sum.pdb

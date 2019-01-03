@@ -1,0 +1,11 @@
+D:\Programming\Softuni\Tech module\Data Types and Variables\Homework\Homework\5. Boolean Variable\bin\Debug\netcoreapp2.0\5. Boolean Variable.deps.json
+D:\Programming\Softuni\Tech module\Data Types and Variables\Homework\Homework\5. Boolean Variable\bin\Debug\netcoreapp2.0\5. Boolean Variable.runtimeconfig.json
+D:\Programming\Softuni\Tech module\Data Types and Variables\Homework\Homework\5. Boolean Variable\bin\Debug\netcoreapp2.0\5. Boolean Variable.runtimeconfig.dev.json
+D:\Programming\Softuni\Tech module\Data Types and Variables\Homework\Homework\5. Boolean Variable\bin\Debug\netcoreapp2.0\5. Boolean Variable.dll
+D:\Programming\Softuni\Tech module\Data Types and Variables\Homework\Homework\5. Boolean Variable\bin\Debug\netcoreapp2.0\5. Boolean Variable.pdb
+D:\Programming\Softuni\Tech module\Data Types and Variables\Homework\Homework\5. Boolean Variable\obj\Debug\netcoreapp2.0\5. Boolean Variable.csproj.CoreCompileInputs.cache
+D:\Programming\Softuni\Tech module\Data Types and Variables\Homework\Homework\5. Boolean Variable\obj\Debug\netcoreapp2.0\5. Boolean Variable.AssemblyInfoInputs.cache
+D:\Programming\Softuni\Tech module\Data Types and Variables\Homework\Homework\5. Boolean Variable\obj\Debug\netcoreapp2.0\5. Boolean Variable.AssemblyInfo.cs
+D:\Programming\Softuni\Tech module\Data Types and Variables\Homework\Homework\5. Boolean Variable\obj\Debug\netcoreapp2.0\5. Boolean Variable.dll
+D:\Programming\Softuni\Tech module\Data Types and Variables\Homework\Homework\5. Boolean Variable\obj\Debug\netcoreapp2.0\5. Boolean Variable.pdb
+D:\Programming\Softuni\Tech module\Data Types and Variables\Homework\Homework\5. Boolean Variable\obj\Debug\netcoreapp2.0\5. Boolean Variable.csprojAssemblyReference.cache

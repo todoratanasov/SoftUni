@@ -1,0 +1,10 @@
+D:\Programming\Softuni\Tech module\Data Types and Variables\Homework\Homework\2. Practice Floating Point Numbers\bin\Debug\netcoreapp2.0\2. Practice Floating Point Numbers.deps.json
+D:\Programming\Softuni\Tech module\Data Types and Variables\Homework\Homework\2. Practice Floating Point Numbers\bin\Debug\netcoreapp2.0\2. Practice Floating Point Numbers.runtimeconfig.json
+D:\Programming\Softuni\Tech module\Data Types and Variables\Homework\Homework\2. Practice Floating Point Numbers\bin\Debug\netcoreapp2.0\2. Practice Floating Point Numbers.runtimeconfig.dev.json
+D:\Programming\Softuni\Tech module\Data Types and Variables\Homework\Homework\2. Practice Floating Point Numbers\bin\Debug\netcoreapp2.0\2. Practice Floating Point Numbers.dll
+D:\Programming\Softuni\Tech module\Data Types and Variables\Homework\Homework\2. Practice Floating Point Numbers\bin\Debug\netcoreapp2.0\2. Practice Floating Point Numbers.pdb
+D:\Programming\Softuni\Tech module\Data Types and Variables\Homework\Homework\2. Practice Floating Point Numbers\obj\Debug\netcoreapp2.0\2. Practice Floating Point Numbers.csproj.CoreCompileInputs.cache
+D:\Programming\Softuni\Tech module\Data Types and Variables\Homework\Homework\2. Practice Floating Point Numbers\obj\Debug\netcoreapp2.0\2. Practice Floating Point Numbers.AssemblyInfoInputs.cache
+D:\Programming\Softuni\Tech module\Data Types and Variables\Homework\Homework\2. Practice Floating Point Numbers\obj\Debug\netcoreapp2.0\2. Practice Floating Point Numbers.AssemblyInfo.cs
+D:\Programming\Softuni\Tech module\Data Types and Variables\Homework\Homework\2. Practice Floating Point Numbers\obj\Debug\netcoreapp2.0\2. Practice Floating Point Numbers.dll
+D:\Programming\Softuni\Tech module\Data Types and Variables\Homework\Homework\2. Practice Floating Point Numbers\obj\Debug\netcoreapp2.0\2. Practice Floating Point Numbers.pdb

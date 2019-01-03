@@ -1,0 +1,11 @@
+D:\Programming\Softuni\Tech module\Data Types and Variables\Homework\Homework\06. Strings And Objects\bin\Debug\netcoreapp2.0\06. Strings And Objects.deps.json
+D:\Programming\Softuni\Tech module\Data Types and Variables\Homework\Homework\06. Strings And Objects\bin\Debug\netcoreapp2.0\06. Strings And Objects.runtimeconfig.json
+D:\Programming\Softuni\Tech module\Data Types and Variables\Homework\Homework\06. Strings And Objects\bin\Debug\netcoreapp2.0\06. Strings And Objects.runtimeconfig.dev.json
+D:\Programming\Softuni\Tech module\Data Types and Variables\Homework\Homework\06. Strings And Objects\bin\Debug\netcoreapp2.0\06. Strings And Objects.dll
+D:\Programming\Softuni\Tech module\Data Types and Variables\Homework\Homework\06. Strings And Objects\bin\Debug\netcoreapp2.0\06. Strings And Objects.pdb
+D:\Programming\Softuni\Tech module\Data Types and Variables\Homework\Homework\06. Strings And Objects\obj\Debug\netcoreapp2.0\06. Strings And Objects.csproj.CoreCompileInputs.cache
+D:\Programming\Softuni\Tech module\Data Types and Variables\Homework\Homework\06. Strings And Objects\obj\Debug\netcoreapp2.0\06. Strings And Objects.AssemblyInfoInputs.cache
+D:\Programming\Softuni\Tech module\Data Types and Variables\Homework\Homework\06. Strings And Objects\obj\Debug\netcoreapp2.0\06. Strings And Objects.AssemblyInfo.cs
+D:\Programming\Softuni\Tech module\Data Types and Variables\Homework\Homework\06. Strings And Objects\obj\Debug\netcoreapp2.0\06. Strings And Objects.dll
+D:\Programming\Softuni\Tech module\Data Types and Variables\Homework\Homework\06. Strings And Objects\obj\Debug\netcoreapp2.0\06. Strings And Objects.pdb
+D:\Programming\Softuni\Tech module\Data Types and Variables\Homework\Homework\06. Strings And Objects\obj\Debug\netcoreapp2.0\06. Strings And Objects.csprojAssemblyReference.cache

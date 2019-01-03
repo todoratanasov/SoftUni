@@ -1,0 +1,10 @@
+C:\Programming\Softuni\Tech module\Arrays\Exercises Arrays\11. Equal Sums\bin\Debug\netcoreapp2.0\11. Equal Sums.deps.json
+C:\Programming\Softuni\Tech module\Arrays\Exercises Arrays\11. Equal Sums\bin\Debug\netcoreapp2.0\11. Equal Sums.runtimeconfig.json
+C:\Programming\Softuni\Tech module\Arrays\Exercises Arrays\11. Equal Sums\bin\Debug\netcoreapp2.0\11. Equal Sums.runtimeconfig.dev.json
+C:\Programming\Softuni\Tech module\Arrays\Exercises Arrays\11. Equal Sums\bin\Debug\netcoreapp2.0\11. Equal Sums.dll
+C:\Programming\Softuni\Tech module\Arrays\Exercises Arrays\11. Equal Sums\bin\Debug\netcoreapp2.0\11. Equal Sums.pdb
+C:\Programming\Softuni\Tech module\Arrays\Exercises Arrays\11. Equal Sums\obj\Debug\netcoreapp2.0\11. Equal Sums.csproj.CoreCompileInputs.cache
+C:\Programming\Softuni\Tech module\Arrays\Exercises Arrays\11. Equal Sums\obj\Debug\netcoreapp2.0\11. Equal Sums.AssemblyInfoInputs.cache
+C:\Programming\Softuni\Tech module\Arrays\Exercises Arrays\11. Equal Sums\obj\Debug\netcoreapp2.0\11. Equal Sums.AssemblyInfo.cs
+C:\Programming\Softuni\Tech module\Arrays\Exercises Arrays\11. Equal Sums\obj\Debug\netcoreapp2.0\11. Equal Sums.dll
+C:\Programming\Softuni\Tech module\Arrays\Exercises Arrays\11. Equal Sums\obj\Debug\netcoreapp2.0\11. Equal Sums.pdb

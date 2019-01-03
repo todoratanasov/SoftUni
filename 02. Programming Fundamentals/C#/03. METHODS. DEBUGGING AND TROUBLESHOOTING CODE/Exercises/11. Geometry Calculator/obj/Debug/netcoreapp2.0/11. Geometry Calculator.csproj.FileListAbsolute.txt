@@ -1,0 +1,11 @@
+C:\Programming\Softuni\Tech module\Methods, Debugging and Troubleshooting Code\Homework\11. Geometry Calculator\obj\Debug\netcoreapp2.0\11. Geometry Calculator.csprojAssemblyReference.cache
+C:\Programming\Softuni\Tech module\Methods, Debugging and Troubleshooting Code\Homework\11. Geometry Calculator\obj\Debug\netcoreapp2.0\11. Geometry Calculator.csproj.CoreCompileInputs.cache
+C:\Programming\Softuni\Tech module\Methods, Debugging and Troubleshooting Code\Homework\11. Geometry Calculator\obj\Debug\netcoreapp2.0\11. Geometry Calculator.AssemblyInfoInputs.cache
+C:\Programming\Softuni\Tech module\Methods, Debugging and Troubleshooting Code\Homework\11. Geometry Calculator\obj\Debug\netcoreapp2.0\11. Geometry Calculator.AssemblyInfo.cs
+C:\Programming\Softuni\Tech module\Methods, Debugging and Troubleshooting Code\Homework\11. Geometry Calculator\bin\Debug\netcoreapp2.0\11. Geometry Calculator.deps.json
+C:\Programming\Softuni\Tech module\Methods, Debugging and Troubleshooting Code\Homework\11. Geometry Calculator\bin\Debug\netcoreapp2.0\11. Geometry Calculator.runtimeconfig.json
+C:\Programming\Softuni\Tech module\Methods, Debugging and Troubleshooting Code\Homework\11. Geometry Calculator\bin\Debug\netcoreapp2.0\11. Geometry Calculator.runtimeconfig.dev.json
+C:\Programming\Softuni\Tech module\Methods, Debugging and Troubleshooting Code\Homework\11. Geometry Calculator\bin\Debug\netcoreapp2.0\11. Geometry Calculator.dll
+C:\Programming\Softuni\Tech module\Methods, Debugging and Troubleshooting Code\Homework\11. Geometry Calculator\bin\Debug\netcoreapp2.0\11. Geometry Calculator.pdb
+C:\Programming\Softuni\Tech module\Methods, Debugging and Troubleshooting Code\Homework\11. Geometry Calculator\obj\Debug\netcoreapp2.0\11. Geometry Calculator.dll
+C:\Programming\Softuni\Tech module\Methods, Debugging and Troubleshooting Code\Homework\11. Geometry Calculator\obj\Debug\netcoreapp2.0\11. Geometry Calculator.pdb

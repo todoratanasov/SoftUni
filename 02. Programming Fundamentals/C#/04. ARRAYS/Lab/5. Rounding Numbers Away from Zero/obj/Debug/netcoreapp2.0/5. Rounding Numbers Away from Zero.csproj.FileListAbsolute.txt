@@ -1,0 +1,11 @@
+C:\Programming\Softuni\Tech module\Arrays\Arrays Lab\Lab Arrays\5. Rounding Numbers Away from Zero\bin\Debug\netcoreapp2.0\5. Rounding Numbers Away from Zero.deps.json
+C:\Programming\Softuni\Tech module\Arrays\Arrays Lab\Lab Arrays\5. Rounding Numbers Away from Zero\bin\Debug\netcoreapp2.0\5. Rounding Numbers Away from Zero.runtimeconfig.json
+C:\Programming\Softuni\Tech module\Arrays\Arrays Lab\Lab Arrays\5. Rounding Numbers Away from Zero\bin\Debug\netcoreapp2.0\5. Rounding Numbers Away from Zero.runtimeconfig.dev.json
+C:\Programming\Softuni\Tech module\Arrays\Arrays Lab\Lab Arrays\5. Rounding Numbers Away from Zero\bin\Debug\netcoreapp2.0\5. Rounding Numbers Away from Zero.dll
+C:\Programming\Softuni\Tech module\Arrays\Arrays Lab\Lab Arrays\5. Rounding Numbers Away from Zero\bin\Debug\netcoreapp2.0\5. Rounding Numbers Away from Zero.pdb
+C:\Programming\Softuni\Tech module\Arrays\Arrays Lab\Lab Arrays\5. Rounding Numbers Away from Zero\obj\Debug\netcoreapp2.0\5. Rounding Numbers Away from Zero.csprojAssemblyReference.cache
+C:\Programming\Softuni\Tech module\Arrays\Arrays Lab\Lab Arrays\5. Rounding Numbers Away from Zero\obj\Debug\netcoreapp2.0\5. Rounding Numbers Away from Zero.csproj.CoreCompileInputs.cache
+C:\Programming\Softuni\Tech module\Arrays\Arrays Lab\Lab Arrays\5. Rounding Numbers Away from Zero\obj\Debug\netcoreapp2.0\5. Rounding Numbers Away from Zero.AssemblyInfoInputs.cache
+C:\Programming\Softuni\Tech module\Arrays\Arrays Lab\Lab Arrays\5. Rounding Numbers Away from Zero\obj\Debug\netcoreapp2.0\5. Rounding Numbers Away from Zero.AssemblyInfo.cs
+C:\Programming\Softuni\Tech module\Arrays\Arrays Lab\Lab Arrays\5. Rounding Numbers Away from Zero\obj\Debug\netcoreapp2.0\5. Rounding Numbers Away from Zero.dll
+C:\Programming\Softuni\Tech module\Arrays\Arrays Lab\Lab Arrays\5. Rounding Numbers Away from Zero\obj\Debug\netcoreapp2.0\5. Rounding Numbers Away from Zero.pdb
