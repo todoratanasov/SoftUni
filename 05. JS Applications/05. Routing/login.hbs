@@ -1,0 +1,23 @@
+<h2>Login</h2>
+<form id='loginform'action="#/login" method="post">
+    <lable for="username_focus">Потребителско име: </lable>
+    <input type="text" name="username" id="username_focus"/> //for атрибуда взима id-to на инпута и при клик влиза в полето за писане
+    <lable for="password_focus">Парола: </lable>
+    <input type="password" name="password" id="password_focus"/>
+    <input type="submit" value="Вход"/>
+</form>
+<div id="validation"></div>;
+<script>
+    $(()=>{
+        $('#loginform').on('submit',function (e) {
+
+            if($('#username')===''){                        //с такава валидация спираме изпълнението на submit
+                e.preventDefault();                         //и изписвам грешка (в случая празно поле)
+                e.stopPropagation();
+                $('#validation').text("username e zadylje")
+            }else {
+
+            }
+        })
+    })
+</script>

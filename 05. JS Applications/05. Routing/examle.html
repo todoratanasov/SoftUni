@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<nav>
+    <ul>
+        <li><a href="#/home">home</a></li>
+        <li><a href="#/about">about</a></li>
+        <li><a href="#/login">login</a></li>
+    </ul>
+    <section id="container"></section>
+</nav>
+<script src="https://code.jquery.com/jquery-3.3.1.js" crossorigin="anonymous"></script>
+<script src="node_modules/sammy/lib/sammy.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/handlebars.js/4.0.12/handlebars.js"></script>
+<script src="node_modules/sammy/lib/plugins/sammy.handlebars.js"></script>
+
+<script>
+    const app=Sammy('#container',function () {
+        //handlebars:
+        this.use('Handlebars','hbs');                   //задаваме, че ще ползваме файлове с разширение hbs.
+                                                        //създаваме си файла с разширение hbs
+
+        this.bind('darkWebEntered', function (e,data) { //e-лови обекта, data е информацията от тригера
+            console.log(`${data.name} has entered`);
+        })
+        //Sammy
+        this.get('#/home',function () {
+            this.swap('<h2>Home page</h2>');            //това сменя целия html на container-a с това в скобите
+
+        })
+        this.get('#/about',function () {
+            this.swap('<h2>About</h2>')
+        })
+        this.get('#/login',function () {
+            this.partial('login.hbs');                  //зареждане на html-a в този темплейт
+            this.name='Pesho';
+            this.loadPartials({                         //зареждане на няколко неща едновременно (в този пример трябва да
+                greeter:'greeter.hbs',                  //се махне this.partial('login.hbs') защото се замазват (неработи)
+                login:'login.hbs'
+            }).then(function (ctx) {
+                console.log(ctx.partials)
+            })
+        });
+        this.get('#/hello/:name',function (ctx) {                       //по този начин взимаме стойността в name в url-a
+            this.name=ctx.params.name;                                  //name става равно на нещо от контекста
+            this.partial('greeter.hbs')                                 //избираме partial-a, в който ще търси за template
+        });
+        this.post('#/login',function (ctx) {
+            if (ctx.params.password === 'moiataparola'&&ctx.params.username==='stamo'){
+                this.trigger('darkWebEntered', {                        //създаваме тригер, който да уловим в bind (име на
+                    name:ctx.params.username                            //bind-a e това в скобите
+                })
+                this.redirect('#/secretpage');
+            } else {
+                this.redirect('#/login')
+            }
+        });
+        this.get('#/secretpage',function () {                   //направо си създаваме локация #secretpage
+            this.swap('<h2>secretpage</h2>')
+        });
+
+    });
+    $(()=> app.run());
+    //по този начин в section се сменява това, което ние искаме цъкайки на бутоните, а останалия HTML е СТАТИЧЕН!!!
+</script>
+</body>
+</html>
