@@ -1,0 +1,49 @@
+function squares (n) {
+  let container = [];
+  let rows = 0;
+
+  if(+n %2 === 0) {
+    rows = n - 1;
+  } else {
+    rows = n;
+  }
+
+  for(let row = 1; row <= rows; row++) {
+    let innerRow = Math.floor(rows / 2) + 1;
+
+    if(row === 1 || row === innerRow || row === rows) {
+      container.push(`+`);
+
+      for(let col = 1; col < 2 * +n - 2; col++) {
+        let innerCol = Math.floor((2 * +n - 1) / 2);
+  
+        if(col === innerCol) {
+          container.push(`+`);        
+        } else {
+          container.push(`-`);
+        }
+      }
+
+      container.push(`+\n`);
+    } else {
+      container.push(`|`);
+
+      for(let col = 1; col < 2 * +n - 2; col++) {
+        let middleCol = Math.floor((2 * +n - 1) / 2);
+  
+        if(col === middleCol) {
+          container.push(`|`);        
+        } else {
+          container.push(` `);
+        }
+      }
+
+      container.push(`|\n`);
+    }
+
+  }
+
+  console.log(container.join(''));
+}
+
+squares(5);
