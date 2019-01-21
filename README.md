@@ -6,5 +6,6 @@
 * 03 JS Fundamentals - in JavaScript
 * 04 JS Advanced - in JavaScript
 * 05 JS Application - in JavaScript and HTML5
+* 06 JS Web - in JS
 * MySql - in MySql
 
