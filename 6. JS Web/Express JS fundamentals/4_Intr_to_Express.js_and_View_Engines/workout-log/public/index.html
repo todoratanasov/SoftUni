@@ -1,0 +1,28 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+</head>
+<body>
+    <h1>log your ex</h1>
+    <form action="/workoutlog/create" method="POST">
+        <div>
+            Workout: <input type="text" name="name"><br>
+        </div>
+        <hr>
+        <div>
+            exersice: <input type="text" name="exercises[0][name]"><br> <!-- с exercises[0][name] му казваме, че инпута ще е в масив, кой индекс и вътре, което пропърти в обекта -->
+        </div>
+        <div>
+            sets: <input type="text" name="exercises[0][sets]"><br>
+        </div>
+        <div>
+            
+            sets: <input type="text" name="exercises[0][reps]"><br> 
+        </div>
+        <button type="submit">Create log</button>
+    </form>
+</body>
+</html>

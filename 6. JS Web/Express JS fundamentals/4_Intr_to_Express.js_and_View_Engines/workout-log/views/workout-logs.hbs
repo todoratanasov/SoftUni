@@ -1,0 +1,27 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+</head>
+<body>
+    {{#each logs}}
+        <h1>workout name: {{name}}</h1>
+        <h1>Exercises:</h1>
+        <ul>
+            {{#each exercises}}
+                <li>
+                    <h1>name:{{name}}</h1>
+                    <span>Sets: {{sets}}</span>
+                    <span>Reps: {{reps}}</span>
+                </li>
+                
+
+            {{/each}}
+        </ul>
+
+
+    {{/each}}
+</body>
+</html>
