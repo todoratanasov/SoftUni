@@ -7,7 +7,8 @@ const userSchema = new mongoose.Schema({
     firstName: { type: mongoose.Schema.Types.String },
     lastName: { type: mongoose.Schema.Types.String },
     salt: { type: mongoose.Schema.Types.String, required: true },
-    roles: [{ type: mongoose.Schema.Types.String }]//тук всъщност се пази ролята на потребителя - user, admin, student и пр. 
+    roles: [{ type: mongoose.Schema.Types.String }],//тук всъщност се пази ролята на потребителя - user, admin, student и пр. 
+    rents: [{type: mongoose.Schema.Types.ObjectId, ref: 'Rent'}]//това го слагаме, за да има и референция и към rent-нтатите коли
 });
 
 userSchema.method({

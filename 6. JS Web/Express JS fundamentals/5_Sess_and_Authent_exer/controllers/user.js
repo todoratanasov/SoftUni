@@ -1,6 +1,7 @@
 const encryption = require('../util/encryption'); //присвояваме си този моодул, защото ще му ползваме методите, за да си създадем паролата
-const User = require('../models/User')
-
+const User = require('../models/User');
+const Rent = require('../models/Rent');
+const Car = require('../models/Car');
 module.exports = {
     registerGet: (req, res) => {
         res.render('user/register')//тук си зареждаме registerform-а
@@ -41,7 +42,8 @@ module.exports = {
                 }
             })
         }catch(err){
-            console.log(err)
+            console.log(err);
+            res.status(400).redirect('/');
         }
     },
     logout: (req, res) => {
@@ -82,10 +84,24 @@ module.exports = {
         }
     },
     myRents: (req, res)=>{
-        Rent.find({user: req.user._id}) //по този начин ще върне масив от rent-овете на потребител с това id (в момента логнатото)
-            .populate('car')    //ще го убедини с car
-            .then((rents)=>{//всичките рентс вече имат в себе си обект, а не ID
+        //Rent.find({user: req.user._id}) //по този начин ще върне масив от rent-овете на потребител с това //id (в момента логнатото)
+        //    .populate('car')    //ще го убедини с car
+        //    .then((rents)=>{//всичките рентс вече имат в себе си обект, а не ID
+//
+        //    })
+        const userId = req.user._id;//тук връща ОБЕКТ, ако искаме да го ползваме като стринг трябва да е toString() или req.user.id (може и така да бачка)
+        Rent.find({user:userId})//както е подаден в базата така си го търсим и тук user - в базата userId - стойността
+        .populate('car') //това е държавен метод от mongoose, който директно ще извлече всичко от пропъртито car във всеки Rent, който намери по търсенето id и като стойност ще ни сложи инфото за тази car срещу нея
+        .then((rents)=>{ //тук ми връща всичките rent-ове на този потребител като масив (може и само един да е)
 
-            })
+            let cars = []; //създаваме си масива, който ще подадем на handlebars, за да рендерира
+            for (const rent of rents) {//итерирам през масива с rent-ове
+                rent.car.expiresOn = `In ${rent.days} days` //добавям проперти expiresOn към всеки rent със стойност дните намиращи се в rent -> days
+                cars.push(rent.car)//динамично вече сме закачили към монентния rent цялата информация и си я добавяме в масива
+            }
+            res.render('user/rented', {cars})
+        })
+        .catch()
+
     }
 };

@@ -17,8 +17,8 @@ module.exports = app => {
     app.get('/car/all', carController.allCars);
     app.get('/car/rent/:id', restrictedPages.isAuthed, carController.rentGet);
     app.post('/car/rent/:id', restrictedPages.isAuthed, carController.rentPost)
-    app.get('/car/edit/:id', restrictedPages.isAuthed, carController.editGet);
-    app.post('/car/edit/:id', restrictedPages.isAuthed, carController.editPost);
+    app.get('/car/edit/:id', restrictedPages.hasRole('Admin'), carController.editGet);
+    app.post('/car/edit/:id', restrictedPages.hasRole('Admin'), carController.editPost);
 
     app.all('*', (req, res) => {//това тук е ако се напише какъвто и да е грешен път (различен от тези горе) да се изпълнява това долу. Може и ние сами да си напишем някаква страница за 404
         res.status(404);
