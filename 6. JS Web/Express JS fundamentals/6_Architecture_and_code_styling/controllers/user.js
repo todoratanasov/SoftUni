@@ -8,7 +8,7 @@ module.exports = {
 
     registerPost: (req, res) => {
         let registerArgs = req.body;
-
+        
         User.findOne({
             email: registerArgs.email
         }).then(user => {

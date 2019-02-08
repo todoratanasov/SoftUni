@@ -21,29 +21,36 @@
                     </button>
                 </div>
                 
-                {{!-- TODO DISPLAY ONLY IF LOGGED --}}
-                {{!-- <div class="navbar-collapse collapse">
+                
+                {{#if user}}
+                <div class="navbar-collapse collapse">
                     <ul class="nav navbar-nav navbar-right">
-                        <li><a href="/user/details">Welcome</a></li>
+                        <li><a href="/user/details">Welcome {{user.fullName}}</a></li>
                         <li><a href="/article/create">New Article</a></li>
                         <li><a href="/user/logout">Logout</a></li>
                     </ul>
-                </div> --}}
-
-                {{!-- TODO DISPLAY ONLY IF NOT LOGGED --}}
+                </div>
+                {{/if}}
+                {{#unless user}}
                 <div class="navbar-collapse collapse">
                     <ul class="nav navbar-nav navbar-right">
                         <li><a href="/user/register">Register</a></li>
                         <li><a href="/user/login">Login</a></li>
                     </ul>
                 </div>
+                {{/unless}}
             </div>
         </div>
     </header>
     {{#if error }}
     <h2>{{error}}</h2>
     {{/if}}
+
+
     {{{body}}}
+
+
+    
 </body>
 <footer>
     <div class="container modal-footer">
