@@ -1,0 +1,42 @@
+body{
+    padding: 3rem;
+    background-color: rgb(238, 238, 238);
+}
+aside{
+    float: right;
+}
+blockquote {
+	width: 40%;
+	min-width: 15rem;
+	float: right;
+	color: #444;
+	font-family: "Georgia", serif;
+	padding-top: 0;
+}
+header{
+    border-bottom: 2px solid black;    
+}
+header h1{
+    font: 3rem/1.2 Helvetica, sans-serif;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+
+/* с този селектор казваме, че искаме всички img, които класът им започва с "align-" */
+img[class^="align-"]{
+    border: 2px solid black;
+    padding: 0.5rem;
+    background-color: rgb(255, 255, 255);
+    box-shadow: 0px 0px 30px 0px rgba(0,0,0,0.75);
+}
+.align-right{
+
+    float: right;
+}
+.align-left{
+    float: left;
+}
+aside a {
+	text-decoration: none;
+	color: #090;
+}
