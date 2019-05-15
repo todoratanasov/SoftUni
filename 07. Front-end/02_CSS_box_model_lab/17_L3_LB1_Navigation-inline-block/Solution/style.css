@@ -1,0 +1,40 @@
+body{
+    padding: 4rem;
+}
+header{   
+    font: 16px/1.2 Helvetica, sans-serif;    
+    border-bottom: solid black;    
+}
+header nav {
+	display: inline-block;
+}
+header p{
+    display: inline-block;
+    text-transform: uppercase;
+    font: 3rem/1.2 Helvetica, sans-serif;
+    /* padding-right: 2em; */
+    font-weight: bold;
+}
+header nav ul li a {
+	display: block;
+	padding: 0.5em 1rem;
+	text-decoration: none;
+	color: #090;
+	border-radius: 0.2rem;
+}
+header nav ul {
+	text-align: right;
+}
+
+/* focus е property, което когато даден елемет е кликнат се активира и в случая и ако го hover-нем и кликнем ще се случи това по-долу*/
+header nav ul li a:focus,
+header nav ul li a:hover {
+	outline: none;
+	background: #090;
+	color: #FFF;
+}
+
+/* по начина долу казваме, че в списъка li-тата ще се показват по този начин и булетите изчезват */
+header nav ul li {
+	display: inline-block;
+}
