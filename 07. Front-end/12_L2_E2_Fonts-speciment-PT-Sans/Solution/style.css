@@ -1,0 +1,27 @@
+html{
+    font-family: 'PT Sans', sans-serif;
+    font: 16px/1.5 'PT Sans', sans-serif;
+}
+body{
+    padding-top: 5em;
+    padding-left: 2em;
+    padding-right: 2em;
+    padding-bottom: 2em;
+}
+p{
+    margin: 2em 0 2em 0
+}
+h2{
+    margin-top: 3em
+}
+
+ul li{
+    list-style-type: square;
+    padding: 0.3rem;
+}
+article ul ul li{
+    list-style-type: disc;
+}
+article ul ul ul li{
+    list-style-type: circle;
+}

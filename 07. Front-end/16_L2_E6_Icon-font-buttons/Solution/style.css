@@ -1,0 +1,27 @@
+body{
+    padding: 5rem;
+}
+p:first-child{
+    background: green;
+}
+p:nth-child(3){
+    background: orange;
+}
+a i{
+    margin-right: 0.3em;
+}
+p a{
+    text-decoration: none;
+}
+a i{
+    color: white;
+}
+a{
+    color: white
+}
+p{
+    display: inline-block;
+    padding: 0.5rem;
+    margin:0.3rem;
+    border-radius: 0.3rem;
+}
