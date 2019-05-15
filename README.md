@@ -5,7 +5,8 @@
 * 02 Programming Fundamentals - in C#
 * 03 JS Fundamentals - in JavaScript
 * 04 JS Advanced - in JavaScript
-* 05 JS Application - in JavaScript and HTML5
+* 05 JS Application - in JavaScript and HTML
 * 06 JS Web - in JS
+* 07 Front-end - in HTML and CSS
 * MySql - in MySql
 
