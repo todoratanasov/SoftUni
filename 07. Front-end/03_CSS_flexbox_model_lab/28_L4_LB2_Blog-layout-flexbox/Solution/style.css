@@ -1,0 +1,53 @@
+body{
+    background: rgb(238, 238, 238); 
+    padding: 3rem;   
+}
+img{
+    background:rgb(255, 255, 255);
+}
+header p{
+    text-transform: uppercase;
+}
+aside section nav ul{    
+    list-style-type: none;
+}
+aside section nav ul li{
+    margin: .4rem;
+}
+aside section nav ul li a{ 
+    border-radius: 0.2rem;
+    background: rgb(201, 192, 192);
+    padding: .2rem;
+    color: rgb(0, 153, 0);
+    text-decoration: none;
+}
+aside section nav ul li a:hover{
+    background: rgb(0, 153, 0);
+    color: rgb(201, 192, 192);
+}
+img[class^="align-"] {
+	padding: 0.5rem;
+	background: #FFF;
+	border: 3px solid #222;
+	box-shadow: 0 0 5rem 0.1rem rgba(0,0,0,0.25);
+}
+.site-title{
+    font-size: 3rem;
+}
+.main-header{
+    border-bottom: 2px solid black
+}
+.align-right{
+    float: right;
+}
+.align-left{
+    float: left;
+}
+blockquote {
+	width: 40%;
+	min-width: 15rem;
+	float: right;
+	color: #444;
+	font-family: "Georgia", serif;
+	padding-top: 0;
+}
